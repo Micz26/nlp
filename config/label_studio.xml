@@ -1,0 +1,9 @@
+<View>
+  <Header value="Klasyfikacja dokumentu na podstawie całej treści" />
+  <Text name="text" value="$text" />
+  <Choices name="label" toName="text" choice="single" showInline="true" required="true">
+    <Choice value="medical_doc" />
+    <Choice value="official_doc" />
+    <Choice value="other" />
+  </Choices>
+</View>

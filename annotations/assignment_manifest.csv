@@ -1,0 +1,444 @@
+task_id,filename,phase,round,assigned_annotator
+1,003aa450-a760-47d7-88bb-077054901d50.pdf,production,0,Szymon
+2,005ef9aa-0486-4de8-ad7c-f58d609ed6ef.pdf,pilot,1,Mikołaj + Szymon
+3,007f25bb-af71-4355-beef-b0bd179cab78.pdf,production,0,Michał
+4,026c6d7e-0a9b-4d09-a997-32a6cb00402e.pdf,production,0,Szymon
+5,02c7beee-56ce-483a-af01-7ec07ae19b8e.pdf,pilot,2,Mikołaj + Szymon
+6,0328af96-edd4-47b6-805b-9d47486f1e2f.pdf,production,0,Mikołaj
+7,04f9b88c-c86c-4316-9902-781c30248102.pdf,production,0,Michał
+8,050745e2-06e8-464d-94be-2c9eace49914.pdf,production,0,Michał
+9,05576d48-ec07-4962-9f08-8c4066b00cbf.pdf,production,0,Mikołaj
+10,059cfc06-1954-4c7a-8e0b-0c49ccce2a95.pdf,production,0,Michał
+11,05a35a56-6407-4815-bb03-9ff02bdb008e.pdf,pilot,1,Mikołaj + Szymon
+12,05b710bb-7523-46b0-a7f9-245d79bd19fe.pdf,production,0,Michał
+13,07542ad4-c64c-49e5-a7c3-70d84a36d8cb.pdf,production,0,Michał
+14,082c533f-0323-46fb-872d-512038b15154.pdf,production,0,Szymon
+15,0858d9dc-953e-4af2-8048-9bc2363c3db3.pdf,production,0,Szymon
+16,09a3ed0b-b0c5-462c-a2fb-b66ed939fc40.pdf,production,0,Szymon
+17,09c4d967-a53a-47be-a736-e1ea9363054e.pdf,production,0,Michał
+18,0bde9ba1-bf88-4ecf-ad1e-97ca313b44c1.pdf,production,0,Szymon
+19,0bf7a2a4-029c-4d98-bc0c-e490dfa3bb9c.pdf,production,0,Mikołaj
+20,0bfc6d6f-8eb9-497c-ad21-e4edf71fdbcc.pdf,production,0,Mikołaj
+21,0c43c04a-b62f-44fc-81e7-11ae57a2df14.pdf,production,0,Michał
+22,0c4e6641-f58c-4a47-bd96-6c93adab6143.pdf,production,0,Szymon
+23,0e3e15a6-d6e4-4481-bbee-1a5d5d75dc5e.pdf,production,0,Mikołaj
+24,0e4441f2-08de-433f-86cc-3a084ce3978a.pdf,production,0,Szymon
+25,0ea35399-fe6d-42d7-ac3f-e4af7c81e58f.pdf,production,0,Michał
+26,0eef0ce7-304e-49a8-928e-5bbf59a93a56.pdf,production,0,Mikołaj
+27,0f80c9bc-3941-4ce7-8dda-4c687c2064ef.pdf,production,0,Mikołaj
+28,114f5bf0-e882-4675-9ea7-3a2efe4ecda9.pdf,production,0,Michał
+29,1249270e-b6ee-4300-9b6f-673eebcf91c8.pdf,production,0,Szymon
+30,126c7fce-3be0-4638-a01c-0eed2bfd78f1.pdf,production,0,Szymon
+31,14308e20-4929-45a8-a5cd-c7b7079ddf81.pdf,production,0,Szymon
+32,144d0067-156f-45e2-9daa-be68b1beae3c.pdf,production,0,Mikołaj
+33,1638fac4-4664-4da1-aff8-38caee3cf753.pdf,production,0,Michał
+34,16ab2c5e-8cf9-48cb-87ad-1cd26ee25a04.pdf,production,0,Mikołaj
+35,16b5a757-dd4a-4de2-9126-e6e166d5b3ab.pdf,production,0,Mikołaj
+36,16ec9548-3f60-4e8c-8ad3-9caae5b620b0.pdf,production,0,Mikołaj
+37,1787ee9f-3404-46c2-a179-0910323d605c.pdf,production,0,Mikołaj
+38,17bdaf30-7b07-4cf1-8508-802e450f8971.pdf,production,0,Szymon
+39,192cb377-4264-4379-8087-beb9814bcb0c.pdf,production,0,Michał
+40,19d18c8f-c7f6-4d8b-8275-f846bff32bbb.pdf,production,0,Szymon
+41,1a836551-096c-4220-81ad-2483dc5151f7.pdf,production,0,Szymon
+42,1a9e5e93-b095-4bac-bcbc-b361581520d3.pdf,production,0,Michał
+43,1bf25056-79ee-4df9-b144-5e2ecf8bc3ce.pdf,pilot,1,Mikołaj + Szymon
+44,1c385302-0b1f-48ad-b611-c30cf5dd2228.pdf,production,0,Mikołaj
+45,1c3ed96c-753c-43e1-8669-d424d638274f.pdf,production,0,Szymon
+46,1e2ac057-8daf-4495-9031-a1a788825d6c.pdf,production,0,Michał
+47,1e5c16c2-59b5-4566-ad59-0341c0bdfd72.pdf,production,0,Mikołaj
+48,201e969e-f779-41a9-a4b0-1661a6bb6f54.pdf,production,0,Michał
+49,20ef4eff-3b3b-4ce3-948a-5e25c5bddf46.pdf,production,0,Szymon
+50,21566793-0b03-4d37-94ec-42dd8a6aee02.pdf,production,0,Michał
+51,224509d0-5b98-490a-8b51-287c576f3151.pdf,production,0,Michał
+52,231ad9c8-4d24-4c62-b36c-5357f10acb16.pdf,production,0,Michał
+53,24b07138-55b4-4115-972f-143d49a22491.pdf,production,0,Szymon
+54,24bca180-7c1f-411a-96eb-54df7182df8b.pdf,pilot,2,Michał
+55,250884f4-b2cb-4f7a-82e6-27603b0cd2f9.pdf,pilot,1,Michał
+56,258ef6d4-4006-4677-b278-d37e63659c60.pdf,production,0,Mikołaj
+57,266ddabb-8922-4443-8fd5-bc9141e9323a.pdf,production,0,Michał
+58,26e872ef-0eb8-4f53-92db-74f78dc9de02.pdf,production,0,Michał
+59,26fe8350-7221-4968-b141-243ed8297fbf.pdf,production,0,Szymon
+60,27099c45-7161-47d3-8c51-81a985d4b568.pdf,production,0,Szymon
+61,2721afaa-0e34-41e8-86d7-39358970840e.pdf,production,0,Michał
+62,27e33130-d3f4-4f6e-aded-c566aee7e5ce.pdf,production,0,Michał
+63,287d99cc-9c89-4c6c-8236-658d365623bb.pdf,production,0,Mikołaj
+64,290b8890-4ecb-49b9-8297-780a0f061bc3.pdf,production,0,Szymon
+65,29374a99-5c45-420e-be77-876dfc9bfb0f.pdf,production,0,Mikołaj
+66,293d6d21-dfde-4afa-8c23-33cf62d296a4.pdf,pilot,2,Mikołaj + Szymon
+67,2953b3a4-9600-4e0b-aaf3-c600ecf0f190.pdf,production,0,Michał
+68,2a2a7e79-2217-43d9-ba8a-965c1d48f75f.pdf,production,0,Szymon
+69,2c554c9d-1d07-4609-8ca5-ef19171ea008.pdf,production,0,Michał
+70,2ccc208b-5a80-4030-a2e3-b6329e882f0c.pdf,production,0,Mikołaj
+71,2d0c7a9d-be8c-445b-a5d6-37aef69f32ba.pdf,production,0,Szymon
+72,2dc82630-269c-440d-9952-8ffb4a28a394.pdf,production,0,Michał
+73,2e162c1c-e1f6-474f-8ad2-2d3b5d721222.pdf,production,0,Michał
+74,2e82edf7-b968-4475-a7a8-3b1cc3a7dcd8.pdf,production,0,Szymon
+75,2ff3d343-acb2-4c6d-8ab0-5742e99a93ef.pdf,production,0,Michał
+76,312d9a81-4623-4d4a-ba92-3d56fe9332e5.pdf,production,0,Mikołaj
+77,317bf16e-fbf7-47f6-b4e2-cde0e83146ad.pdf,production,0,Szymon
+78,31b38384-ad18-4efe-8d35-a007bf6d4388.pdf,production,0,Michał
+79,322fe656-f41e-4a92-b50a-8b32ca8063fb.pdf,production,0,Szymon
+80,3260ed56-ba5f-48b9-89fe-8f91358c7875.pdf,production,0,Mikołaj
+81,32956408-2ed9-4de3-a66c-73f82605d168.pdf,production,0,Szymon
+82,32b7214d-b92f-42d5-acfe-9e5acd64e716.pdf,production,0,Mikołaj
+83,3351d2d5-0b7d-40bd-82c6-e0bf8ea6bf42.pdf,production,0,Michał
+84,33546cc9-15f0-4799-a231-d2c7b0024692.pdf,production,0,Michał
+85,3359e848-54dd-44f7-8a34-a5446a75a4c8.pdf,production,0,Mikołaj
+86,33807cc4-6679-4089-b7d1-48ba9e00e812.pdf,production,0,Michał
+87,3398e9d8-cce8-417f-bf5f-1b9d2a8dfa76.pdf,production,0,Michał
+88,34249ad3-7ef4-4f2b-9acd-d2248434f017.pdf,production,0,Mikołaj
+89,3477cfbc-2aa4-4aa9-b4ad-2e5342773ec6.pdf,pilot,1,Michał
+90,34a38fca-5b89-4940-853a-6c31d34b3a4f.pdf,production,0,Szymon
+91,34f47d3d-44f7-46d3-96c1-e8e530127d24.pdf,production,0,Szymon
+92,350d3869-43d4-4c2c-9b6b-662a70220cd8.pdf,production,0,Szymon
+93,350f12aa-e15a-4b1c-a18b-88d32bef4b4f.pdf,production,0,Mikołaj
+94,35d2e8fd-1ee9-48d3-973c-18e787e01ec9.pdf,production,0,Michał
+95,363eabb5-1527-44c7-82a7-920cb0cc7efb.pdf,pilot,2,Mikołaj + Szymon
+96,36b49bf9-6660-43ec-83ef-9f476cbb66e8.pdf,production,0,Szymon
+97,36c42702-c714-4f18-b6d3-d2a6c7392129.pdf,pilot,2,Mikołaj + Szymon
+98,36cde9e1-d9a2-446f-81b2-9e9608dbb592.pdf,pilot,1,Michał
+99,36dbb386-e1ff-4446-9173-bd1b7bee0c32.pdf,pilot,2,Michał
+100,37810292-bfb4-4c4a-bfed-a8dcfd6a754c.pdf,production,0,Mikołaj
+101,37f16dcd-1924-452a-9c30-3110c918f9a1.pdf,production,0,Szymon
+102,3803b629-bcd2-463e-886e-2fa758fc41a9.pdf,production,0,Michał
+103,380d4adc-f7d4-42dd-8f8a-efb7f6e2020a.pdf,production,0,Michał
+104,39409f91-3076-4f47-9271-36bd33f1b7e9.pdf,production,0,Szymon
+105,397f9761-75ec-4094-b94e-6624a1a7bddd.pdf,production,0,Michał
+106,39d39bf0-3f22-4ddc-9b9e-386e6d4bd915.pdf,production,0,Mikołaj
+107,3a237c03-0276-4a03-9508-e7ba93cfcc0f.pdf,production,0,Mikołaj
+108,3a75671e-3368-4a24-aa3b-83006eed1be1.pdf,pilot,1,Mikołaj + Szymon
+109,3a7b1fe7-b45c-4412-bd75-1d0395d1760d.pdf,production,0,Szymon
+110,3b14ee3d-e920-4298-afb6-023ed82654fd.pdf,production,0,Michał
+111,3bedc7e9-3dfa-469f-a54d-94b200781211.pdf,production,0,Michał
+112,3c3c4ca4-b763-4ec0-ae5e-86736962f909.pdf,production,0,Szymon
+113,3d39743a-c3d7-486f-9f52-4322584f8dc6.pdf,production,0,Mikołaj
+114,3e67ae11-3c00-4139-999e-04069fc7ae9c.pdf,production,0,Mikołaj
+115,3f00bcfd-ce7d-4762-81c3-080efd649142.pdf,pilot,2,Mikołaj + Szymon
+116,40181dd2-4279-44eb-8cfe-cd1fe0176a53.pdf,production,0,Szymon
+117,405c9b44-eca2-4867-92a4-da9f0b2ccaac.pdf,pilot,2,Mikołaj + Szymon
+118,410db9ce-4639-482f-8ab0-86afd6bb1261.pdf,pilot,2,Mikołaj + Szymon
+119,41114a0e-10e1-4116-bc4f-6b0f32df9aa3.pdf,production,0,Michał
+120,411d008d-ebd6-4801-98d9-5ca4dcbc5d22.pdf,production,0,Mikołaj
+121,41a6f795-3bf4-446f-b834-66f1eae914a5.pdf,production,0,Szymon
+122,41c8428c-bb30-473b-b183-f85e261abdf9.pdf,production,0,Mikołaj
+123,4261499a-7ec9-413b-b5cc-009e70a6c7b9.pdf,production,0,Mikołaj
+124,42ac0f1c-a6a8-44b7-b4d3-a53475aef947.pdf,pilot,2,Mikołaj + Szymon
+125,438ed0ed-df40-497c-9e96-6c1984f57081.pdf,production,0,Szymon
+126,43da9209-a72f-4fdb-8dbc-8a946d0f4699.pdf,production,0,Szymon
+127,43f65aa6-74e9-4e2a-ae3f-23425735047c.pdf,production,0,Mikołaj
+128,44a40c7a-e444-4493-a44b-bc67e48347c7.pdf,production,0,Szymon
+129,44b93b0c-5293-4d31-9649-0c523149d180.pdf,production,0,Mikołaj
+130,44edd699-cba0-4b1f-979f-0639c2096521.pdf,production,0,Michał
+131,452ddea0-1941-4442-a921-76521762d32f.pdf,production,0,Szymon
+132,453ecaf2-06f3-41ee-a422-ab17d2648436.pdf,production,0,Michał
+133,457f5154-7f7e-4b95-9efc-1fc0e6fedb52.pdf,production,0,Szymon
+134,463b25b1-add8-4123-879b-31af58129a42.pdf,production,0,Szymon
+135,46f4ec64-4aaa-4057-b5d7-97939569d3bb.pdf,production,0,Mikołaj
+136,4841c90b-49b0-4942-963c-d0eaeabc2cac.pdf,production,0,Szymon
+137,48af68ca-afe5-4534-a2ea-cf38d1f0bc9c.pdf,pilot,1,Mikołaj + Szymon
+138,49633ccf-1945-4b40-b9a2-79a1280c1657.pdf,pilot,1,Mikołaj + Szymon
+139,4ae14849-b3e1-4dd9-ae12-663b89e775a6.pdf,pilot,2,Mikołaj + Szymon
+140,4af86205-529e-4686-8e1f-285191867b0a.pdf,production,0,Szymon
+141,4b51fb6c-ca36-42f8-af76-b541fac7d55d.pdf,pilot,1,Mikołaj + Szymon
+142,4b79bd47-2476-4ea5-aec4-41d9250ba4e0.pdf,production,0,Michał
+143,4c0de092-8562-46ad-a813-e85c8c7acd94.pdf,pilot,1,Mikołaj + Szymon
+144,4c207e67-e324-418b-82de-7b0b71c270f4.pdf,production,0,Mikołaj
+145,4c3a439f-7526-4e3d-8137-3ba0e8e513cf.pdf,production,0,Mikołaj
+146,4d10519e-c650-418e-8a47-918431f517c6.pdf,production,0,Mikołaj
+147,4dab0c5f-2b7c-45a4-ab14-506bfd583865.pdf,production,0,Michał
+148,4de63f2a-9535-4d90-919d-f29af902d74a.pdf,production,0,Szymon
+149,4e0c4a61-60fa-4700-a203-62be06bd18c2.pdf,production,0,Michał
+150,4e1b6959-87da-4635-8fe0-391b8253130c.pdf,production,0,Michał
+151,4ec10ee6-c23d-4cd8-9df5-134ec1c8ce11.pdf,production,0,Szymon
+152,4eff0dab-fa6c-48df-a582-39220a552ebd.pdf,pilot,1,Mikołaj + Szymon
+153,4f3a00ad-f9e5-4e28-824a-03933af10853.pdf,production,0,Mikołaj
+154,4f4ce3a2-3f0b-4180-ab19-c54b6e2667aa.pdf,production,0,Mikołaj
+155,50880d3c-f819-482d-8c24-aa607b4b2a61.pdf,pilot,2,Mikołaj + Szymon
+156,516015a0-ac22-4ec5-98b2-799ebd6ae22d.pdf,production,0,Mikołaj
+157,51d65568-12d5-4ff9-b55d-eef09ec42a15.pdf,production,0,Szymon
+158,5200cd54-60b8-44f7-9d1f-1533f4ca1fca.pdf,production,0,Mikołaj
+159,527e98ad-06bc-4780-8841-f919198ff99d.pdf,production,0,Michał
+160,52cef3ed-641a-4638-beaa-4c2685f9d6de.pdf,production,0,Mikołaj
+161,54460b62-bc67-41ef-b184-bc13e80ab4e3.pdf,production,0,Szymon
+162,544e79ea-17f1-48f1-a6e7-886990edbe86.pdf,production,0,Mikołaj
+163,546b60b5-310a-4f86-9435-1db2b62f55cb.pdf,production,0,Michał
+164,5546a780-5193-43a4-9686-dc35fa4aef9f.pdf,production,0,Szymon
+165,55841c2e-81b7-4d2a-b951-30214f3b30a6.pdf,production,0,Mikołaj
+166,55ccf609-5989-4065-b77f-e6b02870c663.pdf,production,0,Szymon
+167,56f94d6f-deb4-4324-a95d-6310e378ea17.pdf,pilot,2,Mikołaj + Szymon
+168,56fc06cd-2c96-43f6-9200-249b22c97298.pdf,production,0,Mikołaj
+169,57a905fe-af64-4c81-a239-dd380fa25e1e.pdf,production,0,Michał
+170,5880b622-7376-4d47-9392-05f247c8dfd6.pdf,production,0,Szymon
+171,58cb1097-e2a1-4455-8157-93d570e944eb.pdf,production,0,Mikołaj
+172,59470245-4c28-4136-97f7-41581c3a55f9.pdf,production,0,Szymon
+173,598b4d7a-ec0f-46e8-ab80-d8d2c1404965.pdf,pilot,2,Mikołaj + Szymon
+174,59935477-58a0-4626-bf57-cc99dd30df40.pdf,production,0,Michał
+175,59ae477b-7b70-4b6f-95c8-fdb875c8a971.pdf,production,0,Mikołaj
+176,5ba06134-d777-4891-9556-197872c98d2e.pdf,production,0,Michał
+177,5c12c1ef-5dfb-4cfb-94a0-cbeea3b364aa.pdf,pilot,1,Mikołaj + Szymon
+178,5c2ff881-00bf-4ad0-bf30-13e58bed7893.pdf,production,0,Michał
+179,5c3b411a-6406-4bd9-9573-820a51c6b29e.pdf,production,0,Michał
+180,5d608c5a-2b70-4a26-9623-96048fb4a4f4.pdf,production,0,Mikołaj
+181,5d70aa31-9414-4550-8259-19321e2ab069.pdf,production,0,Szymon
+182,5dfc4eee-77ce-447e-9670-427438f59e9a.pdf,production,0,Mikołaj
+183,5efeb435-b77f-4a84-a6d3-7afff0984303.pdf,production,0,Szymon
+184,5f27eec8-568f-4523-93ec-743247dd054d.pdf,production,0,Mikołaj
+185,6105832a-3ecd-4ace-9f01-2db7137eaed2.pdf,production,0,Szymon
+186,61798680-edf9-4374-a8c0-6bb841d8c40e.pdf,production,0,Mikołaj
+187,639316ed-3a02-4ed4-b69d-862d63aa3dee.pdf,production,0,Mikołaj
+188,63ff227e-8bfc-4a5b-abff-18b053a32148.pdf,production,0,Michał
+189,6428cbf3-2a59-4dc2-ae33-0177b6ec6c90.pdf,production,0,Michał
+190,649f1b68-7904-4356-a744-d403178e93c1.pdf,pilot,1,Mikołaj + Szymon
+191,64d5bb5b-c329-4a9a-9054-70883236f020.pdf,production,0,Mikołaj
+192,6506ee88-57bf-4ef3-9724-44aba07e20d5.pdf,production,0,Szymon
+193,65601645-5805-439e-8dda-dd83380abbe5.pdf,production,0,Szymon
+194,662ffcac-4a83-4878-8880-d14ad80c5d43.pdf,production,0,Michał
+195,66d3b27b-038f-49aa-885c-b6958d00e45d.pdf,production,0,Szymon
+196,674cfad2-1192-4e8d-b27b-bbdf4257c6df.pdf,pilot,2,Mikołaj + Szymon
+197,686316bf-af59-4968-8bfc-acc55e286f9a.pdf,production,0,Szymon
+198,696f42b1-1ff1-40c5-b81a-dc9df8a2c06d.pdf,pilot,1,Mikołaj + Szymon
+199,696ffaab-1a3c-4e90-9a97-a4d1574eed53.pdf,production,0,Szymon
+200,6a2378ba-d579-498a-96c5-a16570c5bf3b.pdf,production,0,Szymon
+201,6a745dad-6818-4d45-9e9c-29ac04e88202.pdf,pilot,1,Mikołaj + Szymon
+202,6ac69216-4861-4b48-a3fa-b6f4607a5924.pdf,production,0,Michał
+203,6ba54643-0ff2-4d36-bb32-402fc33d8f08.pdf,production,0,Mikołaj
+204,6c132d5d-c0ad-487b-ae51-e5346fe6a283.pdf,production,0,Michał
+205,6c3f202c-02d2-4baa-9ca6-e6a21ff63c2f.pdf,production,0,Michał
+206,6c673410-20e6-4d11-aaee-e1bd92074391.pdf,production,0,Mikołaj
+207,6e04beb8-7b60-4c60-a090-7a991fb10e47.pdf,production,0,Mikołaj
+208,6ebf5d4c-f7ba-426b-be49-db94cc3e56b0.pdf,production,0,Mikołaj
+209,70a05f7b-90fa-4504-9524-991ef0a24873.pdf,production,0,Michał
+210,71ff3fff-5a12-4993-83f4-65fd93ebb7b4.pdf,production,0,Szymon
+211,72286cbf-dd99-4a4e-a702-0bdb111da53a.pdf,production,0,Mikołaj
+212,7260af10-55cc-4dc5-81b1-3f3765ee5876.pdf,production,0,Szymon
+213,72dadd65-c1de-4ddc-9925-61350a7239ed.pdf,production,0,Mikołaj
+214,73685196-aa08-47ab-b67e-8fc0f72209a5.pdf,production,0,Michał
+215,749d9b85-8ef9-40e2-83d4-05c2ece8fc38.pdf,pilot,1,Mikołaj + Szymon
+216,75047992-b552-4171-a7a0-a444f9370bb4.pdf,pilot,2,Mikołaj + Szymon
+217,7540761b-bca5-4347-9de1-d949911d83dd.pdf,production,0,Szymon
+218,7555bfca-f45a-438f-9864-ed2c41a18eaf.pdf,production,0,Szymon
+219,7568be10-f318-499f-8bf8-49e55b11a4ff.pdf,production,0,Szymon
+220,757390f5-fd5f-4e5b-9d64-6b3179ac52df.pdf,pilot,2,Mikołaj + Szymon
+221,76ef4f4a-bd75-40e2-8a61-86290f043620.pdf,production,0,Mikołaj
+222,77e94774-acf6-4cb6-bd18-9d14d0167a35.pdf,production,0,Mikołaj
+223,78a5da06-b4b2-417e-bfcb-cd6144437008.pdf,pilot,1,Mikołaj + Szymon
+224,791ddd8b-cd2f-463d-936c-2f44d4964d17.pdf,production,0,Mikołaj
+225,7988b4e3-216e-47a9-be45-bf543fb55d4d.pdf,production,0,Mikołaj
+226,7a58ea9a-0681-4572-af56-450579ffe82f.pdf,production,0,Mikołaj
+227,7c038911-177f-4d0b-8783-ed99525cb01e.pdf,production,0,Szymon
+228,7c546ee6-974b-4df2-b8bc-12155d91eee5.pdf,pilot,2,Mikołaj + Szymon
+229,7ca5ded0-a116-4c30-a336-86ac728819c1.pdf,production,0,Mikołaj
+230,7cfb72fe-3389-4760-ae99-95fc3342e1ef.pdf,production,0,Szymon
+231,7daace04-512d-4c00-b57d-fb273e573754.pdf,production,0,Mikołaj
+232,7e1e2fe2-12b4-4e44-899a-3bfbe9c9c09f.pdf,production,0,Szymon
+233,7e82f2c8-0522-44b8-a725-6184790df1af.pdf,production,0,Szymon
+234,7f3d43a0-eb6a-4f94-bbe8-cd14262e786b.pdf,production,0,Szymon
+235,7fdd6cfc-86ec-4e96-9cf0-9a10fb70459d.pdf,production,0,Mikołaj
+236,7fef547a-e20c-4e05-a317-8fb198bfd9fd.pdf,production,0,Mikołaj
+237,80ae2909-b76c-4344-94c8-ad4bd4b89f8b.pdf,production,0,Michał
+238,81251160-ea77-40d1-9ca2-49d9f84ae8cb.pdf,pilot,1,Mikołaj + Szymon
+239,826c84b8-adb0-451d-860f-742cd56bc033.pdf,production,0,Mikołaj
+240,83e1f6de-90cf-44b4-bad9-b81fddadb5c1.pdf,production,0,Mikołaj
+241,841b7fda-aafd-4568-ba60-8fa42cd30276.pdf,production,0,Michał
+242,850bd024-5897-419d-a9ea-aa5c5689ce26.pdf,production,0,Mikołaj
+243,85da0b74-978b-43f6-8892-5048618ad62b.pdf,production,0,Michał
+244,87efac90-0008-433e-b1fc-149f86be963d.pdf,pilot,2,Mikołaj + Szymon
+245,88c02770-e44e-4f41-a9c0-957fd42f8a3d.pdf,production,0,Mikołaj
+246,89724f73-f8ff-45ae-bfbf-f1a390811926.pdf,production,0,Michał
+247,8a05c944-7586-41f6-90fa-5ed37497442d.pdf,production,0,Michał
+248,8b06a4d6-1043-44c0-80ab-0d49fe3a0278.pdf,production,0,Michał
+249,8b155aa2-d678-4b94-b8b0-ddf7e845f56c.pdf,production,0,Szymon
+250,8c839431-2555-4c23-8a64-3eae5a063e0c.pdf,production,0,Szymon
+251,8d51cac7-3234-4135-8378-3b342b21e5fc.pdf,production,0,Mikołaj
+252,8d91747a-632d-4d04-8073-ba235b4c8d14.pdf,pilot,2,Mikołaj + Szymon
+253,8f8a74b6-5bda-4e36-af86-e0051dfec59f.pdf,production,0,Mikołaj
+254,9131d1dd-eefe-4b84-b58d-aa20bfd63d91.pdf,production,0,Michał
+255,91910fcc-9ec8-432c-b920-65072b5ceea9.pdf,production,0,Michał
+256,928130ff-dba6-4a33-8d78-bfd0ca962fe2.pdf,pilot,1,Mikołaj + Szymon
+257,92ac5042-7cd5-4f2a-bd75-58ff85690705.pdf,pilot,2,Mikołaj + Szymon
+258,92cf2bcc-95eb-42b0-b10b-05a903de924e.pdf,production,0,Szymon
+259,92fbf27d-374a-429b-8fc9-2a4f7bde1ebd.pdf,production,0,Michał
+260,9323194f-a2ef-4727-9e9b-9bd619e802d3.pdf,production,0,Michał
+261,93ed737b-146d-4b50-9c7c-2dedf6ab38f4.pdf,production,0,Szymon
+262,94763b48-4c82-43e4-a5a1-ec4d39ef0a67.pdf,production,0,Mikołaj
+263,959fe8a6-5350-4678-ba95-b9aa8748a461.pdf,production,0,Szymon
+264,96965c77-1f9c-495f-8dac-aa874074b325.pdf,pilot,1,Michał
+265,9750c99e-21db-4a86-8456-e8f44ddc344c.pdf,production,0,Szymon
+266,99370a64-93a2-45e1-80ba-c706d9a067be.pdf,pilot,1,Mikołaj + Szymon
+267,994ee244-441f-4db7-8cb5-f2bef226c3f1.pdf,production,0,Michał
+268,9b501e9e-aa2b-47ba-8888-d05eb0d496e2.pdf,production,0,Szymon
+269,9c7fd625-4ec5-4a67-a4b3-b802d88befec.pdf,production,0,Mikołaj
+270,9d0f99df-82d4-4ea7-aeaa-702f5544e518.pdf,production,0,Mikołaj
+271,9e5dfd2e-33ae-403b-a668-76be9c48f9c6.pdf,production,0,Michał
+272,9ff11272-5513-4363-a830-8092fc1450a6.pdf,production,0,Michał
+273,a0060e60-0dae-485f-b281-ab5076b2bfa2.pdf,pilot,1,Mikołaj + Szymon
+274,a0c464ac-b61f-420a-a312-e7617c0ecc0f.pdf,production,0,Michał
+275,a0f9fc81-1613-46b7-9703-427439f2a7e1.pdf,production,0,Michał
+276,a11b6c90-9971-47f7-b884-c10ea240d843.pdf,production,0,Mikołaj
+277,a18acfe4-0f68-4760-8fac-7435d754a1c2.pdf,production,0,Mikołaj
+278,a1d31578-c110-4675-9be1-0b129755bea8.pdf,production,0,Szymon
+279,a2e9c4bd-442c-431c-b993-ac2de35df7d2.pdf,production,0,Michał
+280,a2f6b351-e0f0-439e-8bc4-267740a4a8e7.pdf,production,0,Mikołaj
+281,a32522fd-3f02-4a01-8686-4d49a7eca86e.pdf,production,0,Szymon
+282,a33d0c57-d9f5-4ca0-a446-60db4b728283.pdf,production,0,Mikołaj
+283,a3fedf0f-cb50-4f57-b69f-bc9a8f273071.pdf,production,0,Mikołaj
+284,a40d1a45-aae6-48ce-ab83-e10c60277c0b.pdf,production,0,Szymon
+285,a4972eb0-de4f-42c5-bcea-fb70f330ff75.pdf,production,0,Michał
+286,a64481c4-9c8d-4de0-9a93-2348f0bc51c2.pdf,production,0,Michał
+287,a67701b7-d766-463b-b009-f2dae7d296e8.pdf,production,0,Mikołaj
+288,a71d3236-00b5-4e0b-93b5-e7af2a8ba2ff.pdf,production,0,Mikołaj
+289,a8078a86-b1d5-48dd-b464-67021de2a999.pdf,pilot,2,Mikołaj + Szymon
+290,a85084fe-9880-4352-a389-fe20ddd3a348.pdf,production,0,Michał
+291,a915a3b9-e257-4ff4-8d0d-30c3d37c47e3.pdf,production,0,Szymon
+292,a9ebb804-2bc4-4ece-ad3e-98e513c117e5.pdf,production,0,Szymon
+293,aa2578f7-02b8-4e34-b4f5-73eb03eb8dae.pdf,production,0,Mikołaj
+294,ab9c9ec6-3212-4091-92d1-f6b76e78f22d.pdf,production,0,Michał
+295,abdd916f-52ff-4fba-9cf8-00066a683340.pdf,production,0,Szymon
+296,ac0697b3-8cfc-4db6-b6d6-9ab8e5c5c761.pdf,production,0,Szymon
+297,ace08aa8-f598-42be-ab89-6c9ed5333ba1.pdf,production,0,Michał
+298,ad43424d-b037-4ccb-9c86-e56961dbeca3.pdf,production,0,Szymon
+299,add0bea0-507f-4143-ab68-58b141ec01f7.pdf,pilot,1,Mikołaj + Szymon
+300,b0233a81-945a-47f8-93ac-6dabc2b807cd.pdf,pilot,2,Mikołaj + Szymon
+301,b09f4588-2dfc-465f-8377-48d7444048b9.pdf,production,0,Szymon
+302,b165f7ce-0a75-46fc-9bb9-d0024f09d07a.pdf,production,0,Michał
+303,b2c269e4-99f1-407c-bb45-423f7c2fc38f.pdf,production,0,Mikołaj
+304,b4255aae-4475-4c07-a4d9-e987b7aec110.pdf,production,0,Michał
+305,b442bb0a-74c8-4b29-852b-95ea1b6b0085.pdf,production,0,Szymon
+306,b4f69db2-af66-47b8-9411-561dba5406c9.pdf,production,0,Mikołaj
+307,b52c64e6-6243-4add-8bcd-c6aa45c38c4b.pdf,pilot,1,Michał
+308,b60b7906-1484-47d5-991e-92cedc90e310.pdf,production,0,Szymon
+309,b6da3dd7-c1fb-4384-b9cc-20f611dd0495.pdf,pilot,1,Mikołaj + Szymon
+310,b7f87abb-11f6-4a12-a32d-86b9054171f5.pdf,pilot,1,Mikołaj + Szymon
+311,b840b371-7822-4a1b-a257-5b4fea65a4a9.pdf,production,0,Michał
+312,b86ea86f-96dd-411e-9834-1696e472400c.pdf,production,0,Szymon
+313,b88e39ae-9c24-4889-af69-41fb951550a9.pdf,production,0,Szymon
+314,b891924a-d1e8-4764-a060-2889cc7e599c.pdf,production,0,Mikołaj
+315,b899c381-2fe5-45f5-b7af-557ce3a1ee77.pdf,production,0,Mikołaj
+316,b9228537-6a63-442c-a85c-49d3b114a5be.pdf,production,0,Michał
+317,b9de2365-db53-4b09-b685-abd15009048f.pdf,production,0,Mikołaj
+318,ba1be125-6eae-4126-8966-3045b084fb98.pdf,production,0,Michał
+319,ba21d28f-c1b0-4d02-8a90-6afb655e8505.pdf,production,0,Michał
+320,ba22e687-e088-431e-b8d4-e0f9d58597dc.pdf,production,0,Szymon
+321,bb9130d5-caf1-4406-a321-a77f30869270.pdf,pilot,1,Mikołaj + Szymon
+322,bd0e05e2-b66a-4e91-bc67-2303dd301456.pdf,production,0,Szymon
+323,bd59ba3e-c758-4290-8c71-38eae8539f36.pdf,production,0,Michał
+324,be41fffd-4bef-4a4f-b44d-eb05dc010731.pdf,production,0,Michał
+325,beb90f17-4832-4b05-88c9-e515f4d0d431.pdf,production,0,Michał
+326,bf9d3bd8-7669-403f-b77e-ca72fad3c4a2.pdf,production,0,Michał
+327,bfd242bd-3da2-44a2-a4a0-9117d70e790c.pdf,production,0,Michał
+328,c08390ea-6182-472b-8fbb-93ed6e63fa0d.pdf,production,0,Mikołaj
+329,c0b40399-9fef-4954-9e50-b7fb229959e0.pdf,pilot,2,Mikołaj + Szymon
+330,c0f6d262-6dd1-48d1-8f2d-53c14c63b363.pdf,pilot,1,Michał
+331,c33995e9-76df-432b-b429-a93d92ba5810.pdf,production,0,Michał
+332,c356643f-71db-4b66-bda2-4e861bf5febd.pdf,production,0,Michał
+333,c37f1dd9-e2df-43dd-a4e5-a07b3772b50b.pdf,production,0,Mikołaj
+334,c40c6bc1-c063-4388-be85-57354b99f6e2.pdf,production,0,Mikołaj
+335,c50deae3-c91f-42d2-a671-6c676ea95e38.pdf,production,0,Michał
+336,c51772cf-b1a6-4e3d-85db-6b29d20c8080.pdf,production,0,Szymon
+337,c56487a7-c3d1-43e3-a5b4-0d8faace1a8d.pdf,production,0,Szymon
+338,c5b1287a-116a-46bd-899c-61abff5b1050.pdf,production,0,Michał
+339,c5fd86fa-e880-412e-9db9-3a09c4c9dcbc.pdf,production,0,Szymon
+340,c67e2495-770f-4814-a81d-1d5df4d4855d.pdf,production,0,Michał
+341,c68f0058-63cb-4164-b08d-9b8df6292a8b.pdf,production,0,Mikołaj
+342,c7e61bbf-c763-4440-abcc-1fab1b821251.pdf,production,0,Mikołaj
+343,c80981ed-a378-4fd8-b8ff-791badf2a223.pdf,production,0,Mikołaj
+344,c90f0466-677b-4c4a-b942-b0abf29fe60b.pdf,pilot,2,Mikołaj + Szymon
+345,c971f325-b8e6-4208-ba7b-dd605b0409e8.pdf,production,0,Szymon
+346,c99ae13b-426d-422d-b07f-e964d03832ad.pdf,production,0,Szymon
+347,cacaad40-2e92-4a6e-b72a-339cb16b7119.pdf,pilot,1,Mikołaj + Szymon
+348,cc1818f9-e889-4fbb-908d-377ffc4dc1be.pdf,pilot,1,Michał
+349,ccd801bd-3da7-470a-945e-734ea5877f2d.pdf,production,0,Szymon
+350,cd6d3d73-5202-4e72-874d-d19a50b822f2.pdf,production,0,Michał
+351,cdf32cde-cd13-4e55-8faf-fa0c6ceedd82.pdf,production,0,Michał
+352,cebd6ac4-017b-43f4-be67-084f85cc1c54.pdf,pilot,2,Mikołaj + Szymon
+353,cf013a33-794f-4623-874b-b5786743e849.pdf,production,0,Szymon
+354,cf4436ef-02bf-4706-b240-10accf6b8a71.pdf,production,0,Michał
+355,cf8b745b-6e9a-4aaa-b124-87b636d882c6.pdf,production,0,Mikołaj
+356,cfd118bd-3b85-4c70-b5bf-777f019b1ad0.pdf,production,0,Mikołaj
+357,d0848c69-7fca-4631-960f-40651cbf7092.pdf,production,0,Michał
+358,d2dad0e7-5db5-4dc6-ad82-33567f830bd7.pdf,production,0,Szymon
+359,d36293dd-e8d4-46e5-98ad-891ab0fd69bf.pdf,production,0,Szymon
+360,d38bb581-fe10-41ab-abe1-bccfc110595f.pdf,pilot,2,Mikołaj + Szymon
+361,d5322bb6-626f-42ad-a2d7-6543007dfa27.pdf,production,0,Szymon
+362,d597315d-4f51-4292-8085-1053b09c03fd.pdf,production,0,Mikołaj
+363,d61686de-ac19-4ffd-8483-78e8276daf4c.pdf,production,0,Michał
+364,d652709b-9946-4d71-b06a-3e4adbeaaeeb.pdf,pilot,1,Michał
+365,d654c0cc-4486-46bc-a393-aa977c27bebb.pdf,production,0,Mikołaj
+366,d6d1c8b6-16ad-411f-885d-70da144941b4.pdf,production,0,Michał
+367,d7c73acf-5f9d-41bd-8b43-ade2d9d2ed6d.pdf,production,0,Mikołaj
+368,d9d98659-2ac5-4116-8630-b8e0db594fe9.pdf,production,0,Szymon
+369,dad0e30e-1975-4b6d-a347-68f79bdaf2e0.pdf,pilot,2,Mikołaj + Szymon
+370,dba2dfd1-10dc-4090-8ff6-1a0f76ee67c6.pdf,production,0,Mikołaj
+371,dc10b535-ba60-4ebe-813f-c3dfe1ca90cb.pdf,pilot,1,Mikołaj + Szymon
+372,dc17b8d4-c2b3-4b82-bef6-184992ac3517.pdf,production,0,Michał
+373,dc49a33e-a420-4939-9fa2-b80434b42992.pdf,production,0,Michał
+374,dd390728-b07a-40d2-a384-a78aeacc5f92.pdf,production,0,Mikołaj
+375,dda0a53c-3d31-488c-994c-57bc1d8fcde2.pdf,pilot,1,Michał
+376,ddf6b7b6-6c6e-4f6d-b126-fc1b225ffab8.pdf,production,0,Mikołaj
+377,de087cc6-68ac-4e83-90a1-26dfd72fd911.pdf,production,0,Szymon
+378,df15791f-f9e3-4ba6-b36d-bbf4caa7fb81.pdf,production,0,Mikołaj
+379,df19299b-60e0-41bc-bf08-af719035c4fe.pdf,production,0,Michał
+380,df3db388-a2f5-43c7-aad4-7917ba0576c5.pdf,production,0,Michał
+381,e009a355-e6fe-4317-94cf-54702c6733b8.pdf,production,0,Michał
+382,e1fadf9b-5f3c-4afe-b150-d69308d7f0d2.pdf,production,0,Mikołaj
+383,e21644b3-ba03-4847-8c4f-551d7160ef1f.pdf,pilot,1,Mikołaj + Szymon
+384,e28fc1c8-66cc-4cc5-a222-800e403e624e.pdf,pilot,2,Mikołaj + Szymon
+385,e30d89f7-dac8-4911-876f-535a12af3e7a.pdf,production,0,Szymon
+386,e33cbd83-d3f9-4bf1-b4e9-9f99f4302bb0.pdf,production,0,Mikołaj
+387,e4094e0e-b293-4d60-a48c-8f5bd8f1b983.pdf,production,0,Mikołaj
+388,e46ec903-13fb-43f8-8e82-6e5055efb5fc.pdf,pilot,1,Mikołaj + Szymon
+389,e4a07165-60d8-4cb4-b2fd-f40642c2f677.pdf,pilot,2,Mikołaj + Szymon
+390,e4ae2aeb-11a6-47a6-955b-258132e765d8.pdf,production,0,Michał
+391,e535f458-5ed7-4a3b-9331-aa9790bd4fc6.pdf,production,0,Michał
+392,e58b7709-4bc5-4308-a77f-9ab932f4f763.pdf,pilot,2,Mikołaj + Szymon
+393,e5b9c12a-2778-4b0a-82bb-a3649e92a736.pdf,production,0,Michał
+394,e61fc53e-698a-44d9-aa04-f8886e0e3e38.pdf,production,0,Michał
+395,e6e36d3e-000f-4829-a270-16127612af78.pdf,production,0,Szymon
+396,e720bc88-8b62-4f31-9401-7bf637a9adfb.pdf,pilot,2,Mikołaj + Szymon
+397,e725f63a-f8b4-495e-a14e-f3d0d8ce6321.pdf,production,0,Mikołaj
+398,e7b6e4f9-3dc8-4b15-8b30-63e36a9c36c1.pdf,production,0,Mikołaj
+399,e7ce0dd2-36da-464b-8417-40a0301b711f.pdf,production,0,Michał
+400,e7d69aa0-04b8-49ff-b0a9-4afbfeddbe0d.pdf,production,0,Michał
+401,ea1270d8-f28e-4e29-9324-531d98ae32ec.pdf,pilot,2,Mikołaj + Szymon
+402,ea2416f5-9796-4fa3-98d2-87a0fe80a659.pdf,production,0,Michał
+403,eb2a9a2f-d20c-4169-b657-9988a0d159ac.pdf,pilot,1,Michał
+404,ebdebe9d-94d2-4363-8cd5-8d1d01579ce6.pdf,pilot,2,Mikołaj + Szymon
+405,ec01bfad-b244-4b9a-b174-c46e3343c77b.pdf,production,0,Szymon
+406,ec5a0ba1-38de-40a7-8a13-267a4d444212.pdf,production,0,Mikołaj
+407,ec747b9b-a7fb-4515-bd9a-0e3301a3a16b.pdf,production,0,Michał
+408,ed744c86-a8fe-4af6-9f3f-dbf19751d42b.pdf,production,0,Szymon
+409,ed8de94c-f08e-4894-bd26-d67eb3493b6d.pdf,production,0,Szymon
+410,eecb6740-5443-44ad-ad7c-e7caf6ea0e98.pdf,production,0,Szymon
+411,eefe29b5-2650-46ab-b890-b30f6819bcff.pdf,production,0,Szymon
+412,ef38eaa9-7190-4c95-af7d-72c3ed39489b.pdf,production,0,Michał
+413,ef7d5984-4a40-4d7b-a937-028bfc49a29f.pdf,production,0,Mikołaj
+414,f09360cb-6d3f-408b-ab21-c07e408c9839.pdf,pilot,1,Mikołaj + Szymon
+415,f171b1ac-1b17-4c6e-a212-8ea03fc4af48.pdf,pilot,2,Mikołaj + Szymon
+416,f1c5a752-5754-43da-a02b-528c6c4131bd.pdf,production,0,Szymon
+417,f297eb0b-b04b-4157-8d4f-5ab33a66209f.pdf,production,0,Michał
+418,f2e61099-9cf0-44c3-a624-b7a8095d1e45.pdf,production,0,Szymon
+419,f2f8623b-df43-466b-a5ad-48a6540442b1.pdf,pilot,1,Mikołaj + Szymon
+420,f3897ed6-9ed6-4edd-b1c4-2ee5d66b34e9.pdf,pilot,2,Mikołaj + Szymon
+421,f56da1e3-b949-438e-aab6-9b18412b4058.pdf,production,0,Mikołaj
+422,f570d3f8-1620-4dd4-acdb-56b2b60801a3.pdf,production,0,Michał
+423,f64446c5-c372-4bc1-9c20-332bb1b5303e.pdf,production,0,Szymon
+424,f65b4158-be91-48e3-b559-6dfdf2d317df.pdf,pilot,1,Mikołaj + Szymon
+425,f7acc433-1c2a-48e9-830b-0fb06d04d2d4.pdf,production,0,Mikołaj
+426,f8920407-286e-4e67-a34f-d46e938abf79.pdf,production,0,Michał
+427,f8c3fffd-5421-40c9-bea8-4cfd5dae7f4d.pdf,pilot,2,Mikołaj + Szymon
+428,f8f706aa-4d30-46e8-8eaf-668c1158c3a4.pdf,production,0,Szymon
+429,f95b58fa-39a2-4874-8f79-730459603928.pdf,production,0,Szymon
+430,fb5771d7-68d3-4dec-ab9a-2af57469d615.pdf,production,0,Mikołaj
+431,fb6227fb-a7a2-4c33-abdc-1ef1a868c530.pdf,production,0,Mikołaj
+432,fb7e5d7c-5256-459c-9edc-bf77363967fd.pdf,production,0,Michał
+433,fb99e802-3d1a-48ee-88e7-b6930c10dcd2.pdf,production,0,Mikołaj
+434,fc43829c-0afb-4d9a-8dc6-ba1281865887.pdf,production,0,Mikołaj
+435,fc835d2c-335b-41d2-8b1b-d1666ba2ad31.pdf,pilot,2,Mikołaj + Szymon
+436,fcd1f09c-b6ae-43dd-8731-86c891208c45.pdf,pilot,2,Mikołaj + Szymon
+437,fd9d7915-8775-4dda-adae-343e67d08b81.pdf,production,0,Szymon
+438,fdc62b70-5261-4533-bd2f-bf0760410b0f.pdf,production,0,Mikołaj
+439,fe007e89-4cc2-400f-a997-9f1f3405480b.pdf,pilot,2,Mikołaj + Szymon
+440,fe66b1b2-0d91-4178-94c8-f822314c5bea.pdf,production,0,Szymon
+441,fe97e9ee-70cb-485a-832a-7af22053f7b2.pdf,production,0,Szymon
+442,fed0cd8a-8738-4f99-b1b3-361f07fc7ef5.pdf,production,0,Szymon
+443,fff8ebc3-9248-4716-9ad4-c407ae2c41a2.pdf,production,0,Mikołaj

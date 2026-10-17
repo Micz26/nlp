@@ -1,0 +1,20 @@
+[project]
+name = "nlp-annotation"
+version = "0.1.0"
+description = "Reproducible text annotation workflow for NLP assignment 1"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "label-studio>=1.22,<2",
+    "pandas>=2.2,<4",
+    "pyarrow>=18,<24",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8,<10",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,41 @@
+task_id,filename,annotator,label,reason_short
+2,005ef9aa-0486-4de8-ad7c-f58d609ed6ef.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.
+11,05a35a56-6407-4815-bb03-9ff02bdb008e.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.
+43,1bf25056-79ee-4df9-b144-5e2ecf8bc3ce.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+55,250884f4-b2cb-4f7a-82e6-27603b0cd2f9.pdf,Mikołaj,other,"Ankieta ocenia organizację i doświadczenie korzystania z opieki, bez opisu stanu zdrowia pacjenta."
+89,3477cfbc-2aa4-4aa9-b4ad-2e5342773ec6.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta."
+98,36cde9e1-d9a2-446f-81b2-9e9608dbb592.pdf,Mikołaj,official_doc,Wniosek rozpoczyna postępowanie w sprawie urzędowego orzeczenia.
+108,3a75671e-3368-4a24-aa3b-83006eed1be1.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.
+137,48af68ca-afe5-4534-a2ea-cf38d1f0bc9c.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta."
+138,49633ccf-1945-4b40-b9a2-79a1280c1657.pdf,Mikołaj,medical_doc,Dokument zawiera informacje o miejscach i historii leczenia pacjenta.
+141,4b51fb6c-ca36-42f8-af76-b541fac7d55d.pdf,Mikołaj,medical_doc,Formularz ocenia samodzielność i funkcjonowanie osoby badanej.
+143,4c0de092-8562-46ad-a813-e85c8c7acd94.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta."
+152,4eff0dab-fa6c-48df-a582-39220a552ebd.pdf,Mikołaj,medical_doc,Dokument opisuje przebieg i efekty rehabilitacji leczniczej.
+177,5c12c1ef-5dfb-4cfb-94a0-cbeea3b364aa.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.
+190,649f1b68-7904-4356-a744-d403178e93c1.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.
+198,696f42b1-1ff1-40c5-b81a-dc9df8a2c06d.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej."
+201,6a745dad-6818-4d45-9e9c-29ac04e88202.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+215,749d9b85-8ef9-40e2-83d4-05c2ece8fc38.pdf,Mikołaj,medical_doc,Dokument zawiera informacje o miejscach i historii leczenia pacjenta.
+223,78a5da06-b4b2-417e-bfcb-cd6144437008.pdf,Mikołaj,official_doc,Deklaracja służy rozliczeniu podatku od towarów i usług.
+238,81251160-ea77-40d1-9ca2-49d9f84ae8cb.pdf,Mikołaj,medical_doc,Formularz ocenia samodzielność i funkcjonowanie osoby badanej.
+256,928130ff-dba6-4a33-8d78-bfd0ca962fe2.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.
+264,96965c77-1f9c-495f-8dac-aa874074b325.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu rehabilitacji w ramach postępowania ZUS.
+266,99370a64-93a2-45e1-80ba-c706d9a067be.pdf,Mikołaj,medical_doc,Skala Barthel ocenia stan funkcjonalny pacjenta.
+273,a0060e60-0dae-485f-b281-ab5076b2bfa2.pdf,Mikołaj,medical_doc,Skala Barthel ocenia stan funkcjonalny pacjenta.
+299,add0bea0-507f-4143-ab68-58b141ec01f7.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.
+307,b52c64e6-6243-4add-8bcd-c6aa45c38c4b.pdf,Mikołaj,official_doc,Zaświadczenie płatnika służy ustaleniu i wypłacie świadczenia ZUS.
+309,b6da3dd7-c1fb-4384-b9cc-20f611dd0495.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej."
+310,b7f87abb-11f6-4a12-a32d-86b9054171f5.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej."
+321,bb9130d5-caf1-4406-a321-a77f30869270.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.
+330,c0f6d262-6dd1-48d1-8f2d-53c14c63b363.pdf,Mikołaj,official_doc,Sprzeciw kieruje orzeczenie do rozpatrzenia przez komisję ZUS.
+347,cacaad40-2e92-4a6e-b72a-339cb16b7119.pdf,Mikołaj,medical_doc,"Opinia lekarska zawiera wywiad, badanie i ocenę kliniczną."
+348,cc1818f9-e889-4fbb-908d-377ffc4dc1be.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu rehabilitacji w ramach postępowania ZUS.
+364,d652709b-9946-4d71-b06a-3e4adbeaaeeb.pdf,Mikołaj,official_doc,Sprzeciw kieruje orzeczenie do rozpatrzenia przez komisję ZUS.
+371,dc10b535-ba60-4ebe-813f-c3dfe1ca90cb.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej."
+375,dda0a53c-3d31-488c-994c-57bc1d8fcde2.pdf,Mikołaj,official_doc,Wniosek rozpoczyna postępowanie w sprawie urzędowego orzeczenia.
+383,e21644b3-ba03-4847-8c4f-551d7160ef1f.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta."
+388,e46ec903-13fb-43f8-8e82-6e5055efb5fc.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.
+403,eb2a9a2f-d20c-4169-b657-9988a0d159ac.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu rehabilitacji w ramach postępowania ZUS.
+414,f09360cb-6d3f-408b-ab21-c07e408c9839.pdf,Mikołaj,medical_doc,Skala Barthel ocenia stan funkcjonalny pacjenta.
+419,f2f8623b-df43-466b-a5ad-48a6540442b1.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej."
+424,f65b4158-be91-48e3-b559-6dfdf2d317df.pdf,Mikołaj,medical_doc,Formularz ocenia samodzielność i funkcjonowanie osoby badanej.

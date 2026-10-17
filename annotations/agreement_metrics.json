@@ -1,0 +1,18 @@
+{
+  "1": {
+    "documents": 40,
+    "agreements": 38,
+    "disagreements": 2,
+    "percent_agreement": 0.95,
+    "cohen_kappa": 0.9163179916317991,
+    "fleiss_kappa": 0.9161425576519915
+  },
+  "2": {
+    "documents": 40,
+    "agreements": 40,
+    "disagreements": 0,
+    "percent_agreement": 1.0,
+    "cohen_kappa": 1.0,
+    "fleiss_kappa": 1.0
+  }
+}

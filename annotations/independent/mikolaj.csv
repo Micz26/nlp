@@ -1,0 +1,202 @@
+task_id,filename,annotator,label,reason_short
+2,005ef9aa-0486-4de8-ad7c-f58d609ed6ef.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+5,02c7beee-56ce-483a-af01-7ec07ae19b8e.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+6,0328af96-edd4-47b6-805b-9d47486f1e2f.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+9,05576d48-ec07-4962-9f08-8c4066b00cbf.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+11,05a35a56-6407-4815-bb03-9ff02bdb008e.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+19,0bf7a2a4-029c-4d98-bc0c-e490dfa3bb9c.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+20,0bfc6d6f-8eb9-497c-ad21-e4edf71fdbcc.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+23,0e3e15a6-d6e4-4481-bbee-1a5d5d75dc5e.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+26,0eef0ce7-304e-49a8-928e-5bbf59a93a56.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+27,0f80c9bc-3941-4ce7-8dda-4c687c2064ef.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+32,144d0067-156f-45e2-9daa-be68b1beae3c.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+34,16ab2c5e-8cf9-48cb-87ad-1cd26ee25a04.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+35,16b5a757-dd4a-4de2-9126-e6e166d5b3ab.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+36,16ec9548-3f60-4e8c-8ad3-9caae5b620b0.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+37,1787ee9f-3404-46c2-a179-0910323d605c.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+43,1bf25056-79ee-4df9-b144-5e2ecf8bc3ce.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+44,1c385302-0b1f-48ad-b611-c30cf5dd2228.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+47,1e5c16c2-59b5-4566-ad59-0341c0bdfd72.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+54,24bca180-7c1f-411a-96eb-54df7182df8b.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+55,250884f4-b2cb-4f7a-82e6-27603b0cd2f9.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+56,258ef6d4-4006-4677-b278-d37e63659c60.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+63,287d99cc-9c89-4c6c-8236-658d365623bb.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+65,29374a99-5c45-420e-be77-876dfc9bfb0f.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+66,293d6d21-dfde-4afa-8c23-33cf62d296a4.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+70,2ccc208b-5a80-4030-a2e3-b6329e882f0c.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+76,312d9a81-4623-4d4a-ba92-3d56fe9332e5.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+80,3260ed56-ba5f-48b9-89fe-8f91358c7875.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+82,32b7214d-b92f-42d5-acfe-9e5acd64e716.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+85,3359e848-54dd-44f7-8a34-a5446a75a4c8.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+88,34249ad3-7ef4-4f2b-9acd-d2248434f017.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+89,3477cfbc-2aa4-4aa9-b4ad-2e5342773ec6.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+93,350f12aa-e15a-4b1c-a18b-88d32bef4b4f.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+95,363eabb5-1527-44c7-82a7-920cb0cc7efb.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+97,36c42702-c714-4f18-b6d3-d2a6c7392129.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+98,36cde9e1-d9a2-446f-81b2-9e9608dbb592.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+99,36dbb386-e1ff-4446-9173-bd1b7bee0c32.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+100,37810292-bfb4-4c4a-bfed-a8dcfd6a754c.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+106,39d39bf0-3f22-4ddc-9b9e-386e6d4bd915.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+107,3a237c03-0276-4a03-9508-e7ba93cfcc0f.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+108,3a75671e-3368-4a24-aa3b-83006eed1be1.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+113,3d39743a-c3d7-486f-9f52-4322584f8dc6.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+114,3e67ae11-3c00-4139-999e-04069fc7ae9c.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+115,3f00bcfd-ce7d-4762-81c3-080efd649142.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+117,405c9b44-eca2-4867-92a4-da9f0b2ccaac.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+118,410db9ce-4639-482f-8ab0-86afd6bb1261.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+120,411d008d-ebd6-4801-98d9-5ca4dcbc5d22.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+122,41c8428c-bb30-473b-b183-f85e261abdf9.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+123,4261499a-7ec9-413b-b5cc-009e70a6c7b9.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+124,42ac0f1c-a6a8-44b7-b4d3-a53475aef947.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+127,43f65aa6-74e9-4e2a-ae3f-23425735047c.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+129,44b93b0c-5293-4d31-9649-0c523149d180.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+135,46f4ec64-4aaa-4057-b5d7-97939569d3bb.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+137,48af68ca-afe5-4534-a2ea-cf38d1f0bc9c.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+138,49633ccf-1945-4b40-b9a2-79a1280c1657.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+139,4ae14849-b3e1-4dd9-ae12-663b89e775a6.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+141,4b51fb6c-ca36-42f8-af76-b541fac7d55d.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+143,4c0de092-8562-46ad-a813-e85c8c7acd94.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+144,4c207e67-e324-418b-82de-7b0b71c270f4.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+145,4c3a439f-7526-4e3d-8137-3ba0e8e513cf.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+146,4d10519e-c650-418e-8a47-918431f517c6.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+152,4eff0dab-fa6c-48df-a582-39220a552ebd.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+153,4f3a00ad-f9e5-4e28-824a-03933af10853.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+154,4f4ce3a2-3f0b-4180-ab19-c54b6e2667aa.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.
+155,50880d3c-f819-482d-8c24-aa607b4b2a61.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+156,516015a0-ac22-4ec5-98b2-799ebd6ae22d.pdf,Mikołaj,official_doc,Oświadczenie służy postępowaniu w sprawie pomocy publicznej de minimis.
+158,5200cd54-60b8-44f7-9d1f-1533f4ca1fca.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+160,52cef3ed-641a-4638-beaa-4c2685f9d6de.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+162,544e79ea-17f1-48f1-a6e7-886990edbe86.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+165,55841c2e-81b7-4d2a-b951-30214f3b30a6.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+167,56f94d6f-deb4-4324-a95d-6310e378ea17.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+168,56fc06cd-2c96-43f6-9200-249b22c97298.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+171,58cb1097-e2a1-4455-8157-93d570e944eb.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+173,598b4d7a-ec0f-46e8-ab80-d8d2c1404965.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+175,59ae477b-7b70-4b6f-95c8-fdb875c8a971.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+177,5c12c1ef-5dfb-4cfb-94a0-cbeea3b364aa.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+180,5d608c5a-2b70-4a26-9623-96048fb4a4f4.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+182,5dfc4eee-77ce-447e-9670-427438f59e9a.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+184,5f27eec8-568f-4523-93ec-743247dd054d.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+186,61798680-edf9-4374-a8c0-6bb841d8c40e.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+187,639316ed-3a02-4ed4-b69d-862d63aa3dee.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+190,649f1b68-7904-4356-a744-d403178e93c1.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+191,64d5bb5b-c329-4a9a-9054-70883236f020.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+196,674cfad2-1192-4e8d-b27b-bbdf4257c6df.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+198,696f42b1-1ff1-40c5-b81a-dc9df8a2c06d.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+201,6a745dad-6818-4d45-9e9c-29ac04e88202.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+203,6ba54643-0ff2-4d36-bb32-402fc33d8f08.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+206,6c673410-20e6-4d11-aaee-e1bd92074391.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+207,6e04beb8-7b60-4c60-a090-7a991fb10e47.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+208,6ebf5d4c-f7ba-426b-be49-db94cc3e56b0.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+211,72286cbf-dd99-4a4e-a702-0bdb111da53a.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+213,72dadd65-c1de-4ddc-9925-61350a7239ed.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+215,749d9b85-8ef9-40e2-83d4-05c2ece8fc38.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+216,75047992-b552-4171-a7a0-a444f9370bb4.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+220,757390f5-fd5f-4e5b-9d64-6b3179ac52df.pdf,Mikołaj,official_doc,Zaświadczenie urzędowo potwierdza udzielenie pomocy de minimis.
+221,76ef4f4a-bd75-40e2-8a61-86290f043620.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+222,77e94774-acf6-4cb6-bd18-9d14d0167a35.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+223,78a5da06-b4b2-417e-bfcb-cd6144437008.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+224,791ddd8b-cd2f-463d-936c-2f44d4964d17.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+225,7988b4e3-216e-47a9-be45-bf543fb55d4d.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+226,7a58ea9a-0681-4572-af56-450579ffe82f.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+228,7c546ee6-974b-4df2-b8bc-12155d91eee5.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+229,7ca5ded0-a116-4c30-a336-86ac728819c1.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+231,7daace04-512d-4c00-b57d-fb273e573754.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+235,7fdd6cfc-86ec-4e96-9cf0-9a10fb70459d.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+236,7fef547a-e20c-4e05-a317-8fb198bfd9fd.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+238,81251160-ea77-40d1-9ca2-49d9f84ae8cb.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+239,826c84b8-adb0-451d-860f-742cd56bc033.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+240,83e1f6de-90cf-44b4-bad9-b81fddadb5c1.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+242,850bd024-5897-419d-a9ea-aa5c5689ce26.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+244,87efac90-0008-433e-b1fc-149f86be963d.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+245,88c02770-e44e-4f41-a9c0-957fd42f8a3d.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+251,8d51cac7-3234-4135-8378-3b342b21e5fc.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+252,8d91747a-632d-4d04-8073-ba235b4c8d14.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+253,8f8a74b6-5bda-4e36-af86-e0051dfec59f.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+256,928130ff-dba6-4a33-8d78-bfd0ca962fe2.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+257,92ac5042-7cd5-4f2a-bd75-58ff85690705.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+262,94763b48-4c82-43e4-a5a1-ec4d39ef0a67.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+264,96965c77-1f9c-495f-8dac-aa874074b325.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+266,99370a64-93a2-45e1-80ba-c706d9a067be.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+269,9c7fd625-4ec5-4a67-a4b3-b802d88befec.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+270,9d0f99df-82d4-4ea7-aeaa-702f5544e518.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+273,a0060e60-0dae-485f-b281-ab5076b2bfa2.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+276,a11b6c90-9971-47f7-b884-c10ea240d843.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+277,a18acfe4-0f68-4760-8fac-7435d754a1c2.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+280,a2f6b351-e0f0-439e-8bc4-267740a4a8e7.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+282,a33d0c57-d9f5-4ca0-a446-60db4b728283.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+283,a3fedf0f-cb50-4f57-b69f-bc9a8f273071.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+287,a67701b7-d766-463b-b009-f2dae7d296e8.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+288,a71d3236-00b5-4e0b-93b5-e7af2a8ba2ff.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+289,a8078a86-b1d5-48dd-b464-67021de2a999.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+293,aa2578f7-02b8-4e34-b4f5-73eb03eb8dae.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+299,add0bea0-507f-4143-ab68-58b141ec01f7.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+300,b0233a81-945a-47f8-93ac-6dabc2b807cd.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+303,b2c269e4-99f1-407c-bb45-423f7c2fc38f.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+306,b4f69db2-af66-47b8-9411-561dba5406c9.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.
+307,b52c64e6-6243-4add-8bcd-c6aa45c38c4b.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+309,b6da3dd7-c1fb-4384-b9cc-20f611dd0495.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+310,b7f87abb-11f6-4a12-a32d-86b9054171f5.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+314,b891924a-d1e8-4764-a060-2889cc7e599c.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+315,b899c381-2fe5-45f5-b7af-557ce3a1ee77.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+317,b9de2365-db53-4b09-b685-abd15009048f.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+321,bb9130d5-caf1-4406-a321-a77f30869270.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+328,c08390ea-6182-472b-8fbb-93ed6e63fa0d.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+329,c0b40399-9fef-4954-9e50-b7fb229959e0.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+330,c0f6d262-6dd1-48d1-8f2d-53c14c63b363.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+333,c37f1dd9-e2df-43dd-a4e5-a07b3772b50b.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+334,c40c6bc1-c063-4388-be85-57354b99f6e2.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+341,c68f0058-63cb-4164-b08d-9b8df6292a8b.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.
+342,c7e61bbf-c763-4440-abcc-1fab1b821251.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+343,c80981ed-a378-4fd8-b8ff-791badf2a223.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+344,c90f0466-677b-4c4a-b942-b0abf29fe60b.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+347,cacaad40-2e92-4a6e-b72a-339cb16b7119.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+348,cc1818f9-e889-4fbb-908d-377ffc4dc1be.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+352,cebd6ac4-017b-43f4-be67-084f85cc1c54.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.
+355,cf8b745b-6e9a-4aaa-b124-87b636d882c6.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+356,cfd118bd-3b85-4c70-b5bf-777f019b1ad0.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+360,d38bb581-fe10-41ab-abe1-bccfc110595f.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+362,d597315d-4f51-4292-8085-1053b09c03fd.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.
+364,d652709b-9946-4d71-b06a-3e4adbeaaeeb.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+365,d654c0cc-4486-46bc-a393-aa977c27bebb.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+367,d7c73acf-5f9d-41bd-8b43-ade2d9d2ed6d.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+369,dad0e30e-1975-4b6d-a347-68f79bdaf2e0.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+370,dba2dfd1-10dc-4090-8ff6-1a0f76ee67c6.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+371,dc10b535-ba60-4ebe-813f-c3dfe1ca90cb.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+374,dd390728-b07a-40d2-a384-a78aeacc5f92.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+375,dda0a53c-3d31-488c-994c-57bc1d8fcde2.pdf,Mikołaj,official_doc,Wniosek inicjuje postępowanie w sprawie wydania urzędowego orzeczenia.
+376,ddf6b7b6-6c6e-4f6d-b126-fc1b225ffab8.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+378,df15791f-f9e3-4ba6-b36d-bbf4caa7fb81.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+382,e1fadf9b-5f3c-4afe-b150-d69308d7f0d2.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+383,e21644b3-ba03-4847-8c4f-551d7160ef1f.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.
+384,e28fc1c8-66cc-4cc5-a222-800e403e624e.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+386,e33cbd83-d3f9-4bf1-b4e9-9f99f4302bb0.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.
+387,e4094e0e-b293-4d60-a48c-8f5bd8f1b983.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+388,e46ec903-13fb-43f8-8e82-6e5055efb5fc.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+389,e4a07165-60d8-4cb4-b2fd-f40642c2f677.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+392,e58b7709-4bc5-4308-a77f-9ab932f4f763.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.
+396,e720bc88-8b62-4f31-9401-7bf637a9adfb.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+397,e725f63a-f8b4-495e-a14e-f3d0d8ce6321.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.
+398,e7b6e4f9-3dc8-4b15-8b30-63e36a9c36c1.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+401,ea1270d8-f28e-4e29-9324-531d98ae32ec.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.
+403,eb2a9a2f-d20c-4169-b657-9988a0d159ac.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+404,ebdebe9d-94d2-4363-8cd5-8d1d01579ce6.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+406,ec5a0ba1-38de-40a7-8a13-267a4d444212.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.
+413,ef7d5984-4a40-4d7b-a937-028bfc49a29f.pdf,Mikołaj,official_doc,Zaświadczenie płatnika składek służy ustaleniu prawa do świadczenia ZUS.
+414,f09360cb-6d3f-408b-ab21-c07e408c9839.pdf,Mikołaj,medical_doc,Skala Barthel dokumentuje stan funkcjonalny pacjenta.
+415,f171b1ac-1b17-4c6e-a212-8ea03fc4af48.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+419,f2f8623b-df43-466b-a5ad-48a6540442b1.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+420,f3897ed6-9ed6-4edd-b1c4-2ee5d66b34e9.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+421,f56da1e3-b949-438e-aab6-9b18412b4058.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.
+424,f65b4158-be91-48e3-b559-6dfdf2d317df.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+425,f7acc433-1c2a-48e9-830b-0fb06d04d2d4.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+427,f8c3fffd-5421-40c9-bea8-4cfd5dae7f4d.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.
+430,fb5771d7-68d3-4dec-ab9a-2af57469d615.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+431,fb6227fb-a7a2-4c33-abdc-1ef1a868c530.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną."
+433,fb99e802-3d1a-48ee-88e7-b6930c10dcd2.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.
+434,fc43829c-0afb-4d9a-8dc6-ba1281865887.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.
+435,fc835d2c-335b-41d2-8b1b-d1666ba2ad31.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.
+436,fcd1f09c-b6ae-43dd-8731-86c891208c45.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.
+438,fdc62b70-5261-4533-bd2f-bf0760410b0f.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+439,fe007e89-4cc2-400f-a997-9f1f3405480b.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.
+443,fff8ebc3-9248-4716-9ad4-c407ae2c41a2.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.

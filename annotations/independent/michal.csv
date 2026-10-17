@@ -1,0 +1,122 @@
+task_id,filename,annotator,label,reason_short
+3,007f25bb-af71-4355-beef-b0bd179cab78.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+7,04f9b88c-c86c-4316-9902-781c30248102.pdf,Michał,official_doc,Dokument poświadcza albo deklaruje pomoc publiczną de minimis.
+8,050745e2-06e8-464d-94be-2c9eace49914.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+10,059cfc06-1954-4c7a-8e0b-0c49ccce2a95.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+12,05b710bb-7523-46b0-a7f9-245d79bd19fe.pdf,Michał,official_doc,Wywiad zawodowy OL-10 służy postępowaniu orzeczniczemu ZUS.
+13,07542ad4-c64c-49e5-a7c3-70d84a36d8cb.pdf,Michał,official_doc,Wniosek OL-13 inicjuje urzędowe wydanie orzeczenia przez ZUS.
+17,09c4d967-a53a-47be-a736-e1ea9363054e.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+21,0c43c04a-b62f-44fc-81e7-11ae57a2df14.pdf,Michał,official_doc,Wywiad zawodowy OL-10 służy postępowaniu orzeczniczemu ZUS.
+25,0ea35399-fe6d-42d7-ac3f-e4af7c81e58f.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+28,114f5bf0-e882-4675-9ea7-3a2efe4ecda9.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+33,1638fac4-4664-4da1-aff8-38caee3cf753.pdf,Michał,official_doc,Wniosek OL-13 inicjuje urzędowe wydanie orzeczenia przez ZUS.
+39,192cb377-4264-4379-8087-beb9814bcb0c.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+42,1a9e5e93-b095-4bac-bcbc-b361581520d3.pdf,Michał,other,Lista ergonomii stanowiska pracy bez dokumentacji pacjenta.
+46,1e2ac057-8daf-4495-9031-a1a788825d6c.pdf,Michał,official_doc,Formularz OL-4 przekazuje ZUS informacje w postępowaniu orzeczniczym.
+48,201e969e-f779-41a9-a4b0-1661a6bb6f54.pdf,Michał,official_doc,Wniosek OL-13 inicjuje urzędowe wydanie orzeczenia przez ZUS.
+50,21566793-0b03-4d37-94ec-42dd8a6aee02.pdf,Michał,medical_doc,Formularz zapisuje miejsca i przebieg leczenia osoby ubezpieczonej.
+51,224509d0-5b98-490a-8b51-287c576f3151.pdf,Michał,official_doc,Dokument poświadcza albo deklaruje pomoc publiczną de minimis.
+52,231ad9c8-4d24-4c62-b36c-5357f10acb16.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+57,266ddabb-8922-4443-8fd5-bc9141e9323a.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+58,26e872ef-0eb8-4f53-92db-74f78dc9de02.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+61,2721afaa-0e34-41e8-86d7-39358970840e.pdf,Michał,other,Lista ergonomii stanowiska pracy bez dokumentacji pacjenta.
+62,27e33130-d3f4-4f6e-aded-c566aee7e5ce.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+67,2953b3a4-9600-4e0b-aaf3-c600ecf0f190.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+69,2c554c9d-1d07-4609-8ca5-ef19171ea008.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+72,2dc82630-269c-440d-9952-8ffb4a28a394.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+73,2e162c1c-e1f6-474f-8ad2-2d3b5d721222.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+75,2ff3d343-acb2-4c6d-8ab0-5742e99a93ef.pdf,Michał,medical_doc,Formularz zapisuje miejsca i przebieg leczenia osoby ubezpieczonej.
+78,31b38384-ad18-4efe-8d35-a007bf6d4388.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+83,3351d2d5-0b7d-40bd-82c6-e0bf8ea6bf42.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+84,33546cc9-15f0-4799-a231-d2c7b0024692.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+86,33807cc4-6679-4089-b7d1-48ba9e00e812.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+87,3398e9d8-cce8-417f-bf5f-1b9d2a8dfa76.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+94,35d2e8fd-1ee9-48d3-973c-18e787e01ec9.pdf,Michał,official_doc,Wywiad zawodowy OL-10 służy postępowaniu orzeczniczemu ZUS.
+102,3803b629-bcd2-463e-886e-2fa758fc41a9.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+103,380d4adc-f7d4-42dd-8f8a-efb7f6e2020a.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+105,397f9761-75ec-4094-b94e-6624a1a7bddd.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+110,3b14ee3d-e920-4298-afb6-023ed82654fd.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+111,3bedc7e9-3dfa-469f-a54d-94b200781211.pdf,Michał,medical_doc,Formularz zapisuje miejsca i przebieg leczenia osoby ubezpieczonej.
+119,41114a0e-10e1-4116-bc4f-6b0f32df9aa3.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+130,44edd699-cba0-4b1f-979f-0639c2096521.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+132,453ecaf2-06f3-41ee-a422-ab17d2648436.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+142,4b79bd47-2476-4ea5-aec4-41d9250ba4e0.pdf,Michał,medical_doc,Zaświadczenie OL-9 zawiera ocenę stanu zdrowia i leczenia.
+147,4dab0c5f-2b7c-45a4-ab14-506bfd583865.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+149,4e0c4a61-60fa-4700-a203-62be06bd18c2.pdf,Michał,other,Lista ergonomii stanowiska pracy bez dokumentacji pacjenta.
+150,4e1b6959-87da-4635-8fe0-391b8253130c.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+159,527e98ad-06bc-4780-8841-f919198ff99d.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+163,546b60b5-310a-4f86-9435-1db2b62f55cb.pdf,Michał,other,Lista ergonomii stanowiska pracy bez dokumentacji pacjenta.
+169,57a905fe-af64-4c81-a239-dd380fa25e1e.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+174,59935477-58a0-4626-bf57-cc99dd30df40.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+176,5ba06134-d777-4891-9556-197872c98d2e.pdf,Michał,official_doc,Wywiad zawodowy OL-10 służy postępowaniu orzeczniczemu ZUS.
+178,5c2ff881-00bf-4ad0-bf30-13e58bed7893.pdf,Michał,medical_doc,"Opinia specjalistyczna dokumentuje wywiad, badanie i ocenę kliniczną."
+179,5c3b411a-6406-4bd9-9573-820a51c6b29e.pdf,Michał,medical_doc,Formularz dokumentuje kliniczną ocenę funkcjonowania pacjenta.
+188,63ff227e-8bfc-4a5b-abff-18b053a32148.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+189,6428cbf3-2a59-4dc2-ae33-0177b6ec6c90.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+194,662ffcac-4a83-4878-8880-d14ad80c5d43.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+202,6ac69216-4861-4b48-a3fa-b6f4607a5924.pdf,Michał,medical_doc,"Opinia specjalistyczna dokumentuje wywiad, badanie i ocenę kliniczną."
+204,6c132d5d-c0ad-487b-ae51-e5346fe6a283.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+205,6c3f202c-02d2-4baa-9ca6-e6a21ff63c2f.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+209,70a05f7b-90fa-4504-9524-991ef0a24873.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+214,73685196-aa08-47ab-b67e-8fc0f72209a5.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+237,80ae2909-b76c-4344-94c8-ad4bd4b89f8b.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+241,841b7fda-aafd-4568-ba60-8fa42cd30276.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+243,85da0b74-978b-43f6-8892-5048618ad62b.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+246,89724f73-f8ff-45ae-bfbf-f1a390811926.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+247,8a05c944-7586-41f6-90fa-5ed37497442d.pdf,Michał,medical_doc,"Opinia specjalistyczna dokumentuje wywiad, badanie i ocenę kliniczną."
+248,8b06a4d6-1043-44c0-80ab-0d49fe3a0278.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+254,9131d1dd-eefe-4b84-b58d-aa20bfd63d91.pdf,Michał,medical_doc,Zaświadczenie OL-9 zawiera ocenę stanu zdrowia i leczenia.
+255,91910fcc-9ec8-432c-b920-65072b5ceea9.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+259,92fbf27d-374a-429b-8fc9-2a4f7bde1ebd.pdf,Michał,medical_doc,Formularz dokumentuje kliniczną ocenę funkcjonowania pacjenta.
+260,9323194f-a2ef-4727-9e9b-9bd619e802d3.pdf,Michał,medical_doc,Ankieta opisuje doświadczenie pacjenta korzystającego ze świadczeń.
+267,994ee244-441f-4db7-8cb5-f2bef226c3f1.pdf,Michał,official_doc,Wywiad zawodowy OL-10 służy postępowaniu orzeczniczemu ZUS.
+271,9e5dfd2e-33ae-403b-a668-76be9c48f9c6.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+272,9ff11272-5513-4363-a830-8092fc1450a6.pdf,Michał,medical_doc,Zaświadczenie OL-9 zawiera ocenę stanu zdrowia i leczenia.
+274,a0c464ac-b61f-420a-a312-e7617c0ecc0f.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+275,a0f9fc81-1613-46b7-9703-427439f2a7e1.pdf,Michał,medical_doc,Skala Barthel zapisuje kliniczną ocenę samodzielności pacjenta.
+279,a2e9c4bd-442c-431c-b993-ac2de35df7d2.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+285,a4972eb0-de4f-42c5-bcea-fb70f330ff75.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+286,a64481c4-9c8d-4de0-9a93-2348f0bc51c2.pdf,Michał,official_doc,Wniosek OL-2 inicjuje kontrolę zaświadczenia lekarskiego przez ZUS.
+290,a85084fe-9880-4352-a389-fe20ddd3a348.pdf,Michał,medical_doc,Formularz dokumentuje kliniczną ocenę funkcjonowania pacjenta.
+294,ab9c9ec6-3212-4091-92d1-f6b76e78f22d.pdf,Michał,medical_doc,Ankieta opisuje doświadczenie pacjenta korzystającego ze świadczeń.
+297,ace08aa8-f598-42be-ab89-6c9ed5333ba1.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+302,b165f7ce-0a75-46fc-9bb9-d0024f09d07a.pdf,Michał,medical_doc,"Dokument zapisuje stan kliniczny, wywiad i zastosowane leczenie."
+304,b4255aae-4475-4c07-a4d9-e987b7aec110.pdf,Michał,official_doc,Formularz OL-4 przekazuje ZUS informacje w postępowaniu orzeczniczym.
+311,b840b371-7822-4a1b-a257-5b4fea65a4a9.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+316,b9228537-6a63-442c-a85c-49d3b114a5be.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+318,ba1be125-6eae-4126-8966-3045b084fb98.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+319,ba21d28f-c1b0-4d02-8a90-6afb655e8505.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+323,bd59ba3e-c758-4290-8c71-38eae8539f36.pdf,Michał,official_doc,Wniosek OL-13 inicjuje urzędowe wydanie orzeczenia przez ZUS.
+324,be41fffd-4bef-4a4f-b44d-eb05dc010731.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+325,beb90f17-4832-4b05-88c9-e515f4d0d431.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+326,bf9d3bd8-7669-403f-b77e-ca72fad3c4a2.pdf,Michał,official_doc,Dokument poświadcza albo deklaruje pomoc publiczną de minimis.
+327,bfd242bd-3da2-44a2-a4a0-9117d70e790c.pdf,Michał,official_doc,Formularz OL-4 przekazuje ZUS informacje w postępowaniu orzeczniczym.
+331,c33995e9-76df-432b-b429-a93d92ba5810.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+332,c356643f-71db-4b66-bda2-4e861bf5febd.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+335,c50deae3-c91f-42d2-a671-6c676ea95e38.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+338,c5b1287a-116a-46bd-899c-61abff5b1050.pdf,Michał,medical_doc,"Opinia specjalistyczna dokumentuje wywiad, badanie i ocenę kliniczną."
+340,c67e2495-770f-4814-a81d-1d5df4d4855d.pdf,Michał,official_doc,Wniosek PR-4 inicjuje sprawę rehabilitacji w ramach prewencji rentowej ZUS.
+350,cd6d3d73-5202-4e72-874d-d19a50b822f2.pdf,Michał,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.
+351,cdf32cde-cd13-4e55-8faf-fa0c6ceedd82.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+354,cf4436ef-02bf-4706-b240-10accf6b8a71.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+357,d0848c69-7fca-4631-960f-40651cbf7092.pdf,Michał,medical_doc,Formularz zapisuje miejsca i przebieg leczenia osoby ubezpieczonej.
+363,d61686de-ac19-4ffd-8483-78e8276daf4c.pdf,Michał,official_doc,Formularz OL-4 przekazuje ZUS informacje w postępowaniu orzeczniczym.
+366,d6d1c8b6-16ad-411f-885d-70da144941b4.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+372,dc17b8d4-c2b3-4b82-bef6-184992ac3517.pdf,Michał,medical_doc,Formularz dokumentuje kliniczną ocenę funkcjonowania pacjenta.
+373,dc49a33e-a420-4939-9fa2-b80434b42992.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+379,df19299b-60e0-41bc-bf08-af719035c4fe.pdf,Michał,medical_doc,Formularz dokumentuje kliniczną ocenę funkcjonowania pacjenta.
+380,df3db388-a2f5-43c7-aad4-7917ba0576c5.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+381,e009a355-e6fe-4317-94cf-54702c6733b8.pdf,Michał,official_doc,Formularz Z-3 przekazuje ZUS dane potrzebne do ustalenia świadczenia.
+390,e4ae2aeb-11a6-47a6-955b-258132e765d8.pdf,Michał,official_doc,Formularz dokumentuje kontrolę organizacji świadczeń i obsady placówki.
+391,e535f458-5ed7-4a3b-9331-aa9790bd4fc6.pdf,Michał,official_doc,Wniosek SR-1 inicjuje postępowanie o świadczenia rodzinne.
+393,e5b9c12a-2778-4b0a-82bb-a3649e92a736.pdf,Michał,official_doc,Formularz OL-4 przekazuje ZUS informacje w postępowaniu orzeczniczym.
+394,e61fc53e-698a-44d9-aa04-f8886e0e3e38.pdf,Michał,official_doc,Zgłoszenie NIP-2 służy urzędowej identyfikacji lub aktualizacji podatnika.
+399,e7ce0dd2-36da-464b-8417-40a0301b711f.pdf,Michał,official_doc,Zeznanie podatkowe dokumentuje postępowanie przed urzędem skarbowym.
+400,e7d69aa0-04b8-49ff-b0a9-4afbfeddbe0d.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+402,ea2416f5-9796-4fa3-98d2-87a0fe80a659.pdf,Michał,other,Lista ergonomii stanowiska pracy bez dokumentacji pacjenta.
+407,ec747b9b-a7fb-4515-bd9a-0e3301a3a16b.pdf,Michał,official_doc,Wniosek OL-13 inicjuje urzędowe wydanie orzeczenia przez ZUS.
+412,ef38eaa9-7190-4c95-af7d-72c3ed39489b.pdf,Michał,official_doc,Wniosek OL-13 inicjuje urzędowe wydanie orzeczenia przez ZUS.
+417,f297eb0b-b04b-4157-8d4f-5ab33a66209f.pdf,Michał,medical_doc,Ankieta opisuje doświadczenie pacjenta korzystającego ze świadczeń.
+422,f570d3f8-1620-4dd4-acdb-56b2b60801a3.pdf,Michał,medical_doc,Ankieta opisuje doświadczenie pacjenta korzystającego ze świadczeń.
+426,f8920407-286e-4e67-a34f-d46e938abf79.pdf,Michał,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe z urzędem skarbowym.
+432,fb7e5d7c-5256-459c-9edc-bf77363967fd.pdf,Michał,medical_doc,Formularz dokumentuje kliniczną ocenę funkcjonowania pacjenta.

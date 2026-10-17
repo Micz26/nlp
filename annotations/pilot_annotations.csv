@@ -1,0 +1,161 @@
+task_id,filename,annotator,label,reason_short,round,independent,guideline_version
+2,005ef9aa-0486-4de8-ad7c-f58d609ed6ef.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.,1,True,1
+11,05a35a56-6407-4815-bb03-9ff02bdb008e.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.,1,True,1
+43,1bf25056-79ee-4df9-b144-5e2ecf8bc3ce.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.,1,True,1
+55,250884f4-b2cb-4f7a-82e6-27603b0cd2f9.pdf,Mikołaj,other,"Ankieta ocenia organizację i doświadczenie korzystania z opieki, bez opisu stanu zdrowia pacjenta.",1,True,1
+89,3477cfbc-2aa4-4aa9-b4ad-2e5342773ec6.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta.",1,True,1
+98,36cde9e1-d9a2-446f-81b2-9e9608dbb592.pdf,Mikołaj,official_doc,Wniosek rozpoczyna postępowanie w sprawie urzędowego orzeczenia.,1,True,1
+108,3a75671e-3368-4a24-aa3b-83006eed1be1.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.,1,True,1
+137,48af68ca-afe5-4534-a2ea-cf38d1f0bc9c.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta.",1,True,1
+138,49633ccf-1945-4b40-b9a2-79a1280c1657.pdf,Mikołaj,medical_doc,Dokument zawiera informacje o miejscach i historii leczenia pacjenta.,1,True,1
+141,4b51fb6c-ca36-42f8-af76-b541fac7d55d.pdf,Mikołaj,medical_doc,Formularz ocenia samodzielność i funkcjonowanie osoby badanej.,1,True,1
+143,4c0de092-8562-46ad-a813-e85c8c7acd94.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta.",1,True,1
+152,4eff0dab-fa6c-48df-a582-39220a552ebd.pdf,Mikołaj,medical_doc,Dokument opisuje przebieg i efekty rehabilitacji leczniczej.,1,True,1
+177,5c12c1ef-5dfb-4cfb-94a0-cbeea3b364aa.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.,1,True,1
+190,649f1b68-7904-4356-a744-d403178e93c1.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.,1,True,1
+198,696f42b1-1ff1-40c5-b81a-dc9df8a2c06d.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej.",1,True,1
+201,6a745dad-6818-4d45-9e9c-29ac04e88202.pdf,Mikołaj,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatnika lub płatnika.,1,True,1
+215,749d9b85-8ef9-40e2-83d4-05c2ece8fc38.pdf,Mikołaj,medical_doc,Dokument zawiera informacje o miejscach i historii leczenia pacjenta.,1,True,1
+223,78a5da06-b4b2-417e-bfcb-cd6144437008.pdf,Mikołaj,official_doc,Deklaracja służy rozliczeniu podatku od towarów i usług.,1,True,1
+238,81251160-ea77-40d1-9ca2-49d9f84ae8cb.pdf,Mikołaj,medical_doc,Formularz ocenia samodzielność i funkcjonowanie osoby badanej.,1,True,1
+256,928130ff-dba6-4a33-8d78-bfd0ca962fe2.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.,1,True,1
+264,96965c77-1f9c-495f-8dac-aa874074b325.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu rehabilitacji w ramach postępowania ZUS.,1,True,1
+266,99370a64-93a2-45e1-80ba-c706d9a067be.pdf,Mikołaj,medical_doc,Skala Barthel ocenia stan funkcjonalny pacjenta.,1,True,1
+273,a0060e60-0dae-485f-b281-ab5076b2bfa2.pdf,Mikołaj,medical_doc,Skala Barthel ocenia stan funkcjonalny pacjenta.,1,True,1
+299,add0bea0-507f-4143-ab68-58b141ec01f7.pdf,Mikołaj,official_doc,Wniosek służy ustaleniu prawa do dodatków do zasiłku rodzinnego.,1,True,1
+307,b52c64e6-6243-4add-8bcd-c6aa45c38c4b.pdf,Mikołaj,official_doc,Zaświadczenie płatnika służy ustaleniu i wypłacie świadczenia ZUS.,1,True,1
+309,b6da3dd7-c1fb-4384-b9cc-20f611dd0495.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej.",1,True,1
+310,b7f87abb-11f6-4a12-a32d-86b9054171f5.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej.",1,True,1
+321,bb9130d5-caf1-4406-a321-a77f30869270.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.,1,True,1
+330,c0f6d262-6dd1-48d1-8f2d-53c14c63b363.pdf,Mikołaj,official_doc,Sprzeciw kieruje orzeczenie do rozpatrzenia przez komisję ZUS.,1,True,1
+347,cacaad40-2e92-4a6e-b72a-339cb16b7119.pdf,Mikołaj,medical_doc,"Opinia lekarska zawiera wywiad, badanie i ocenę kliniczną.",1,True,1
+348,cc1818f9-e889-4fbb-908d-377ffc4dc1be.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu rehabilitacji w ramach postępowania ZUS.,1,True,1
+364,d652709b-9946-4d71-b06a-3e4adbeaaeeb.pdf,Mikołaj,official_doc,Sprzeciw kieruje orzeczenie do rozpatrzenia przez komisję ZUS.,1,True,1
+371,dc10b535-ba60-4ebe-813f-c3dfe1ca90cb.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej.",1,True,1
+375,dda0a53c-3d31-488c-994c-57bc1d8fcde2.pdf,Mikołaj,official_doc,Wniosek rozpoczyna postępowanie w sprawie urzędowego orzeczenia.,1,True,1
+383,e21644b3-ba03-4847-8c4f-551d7160ef1f.pdf,Mikołaj,medical_doc,"Zaświadczenie opisuje stan zdrowia, rozpoznania i leczenie pacjenta.",1,True,1
+388,e46ec903-13fb-43f8-8e82-6e5055efb5fc.pdf,Mikołaj,official_doc,Formularz służy rozliczeniu podatkowemu z urzędem skarbowym.,1,True,1
+403,eb2a9a2f-d20c-4169-b657-9988a0d159ac.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu rehabilitacji w ramach postępowania ZUS.,1,True,1
+414,f09360cb-6d3f-408b-ab21-c07e408c9839.pdf,Mikołaj,medical_doc,Skala Barthel ocenia stan funkcjonalny pacjenta.,1,True,1
+419,f2f8623b-df43-466b-a5ad-48a6540442b1.pdf,Mikołaj,other,"Lista dotyczy ergonomii stanowiska pracy, a nie zdrowia konkretnego pacjenta ani sprawy urzędowej.",1,True,1
+424,f65b4158-be91-48e3-b559-6dfdf2d317df.pdf,Mikołaj,medical_doc,Formularz ocenia samodzielność i funkcjonowanie osoby badanej.,1,True,1
+2,005ef9aa-0486-4de8-ad7c-f58d609ed6ef.pdf,Szymon,official_doc,Zeznanie służy rozliczeniu podatku dochodowego.,1,True,1
+11,05a35a56-6407-4815-bb03-9ff02bdb008e.pdf,Szymon,official_doc,Wniosek służy ustaleniu prawa do świadczenia rodzinnego.,1,True,1
+43,1bf25056-79ee-4df9-b144-5e2ecf8bc3ce.pdf,Szymon,official_doc,Zgłoszenie służy urzędowej ewidencji podatnika.,1,True,1
+55,250884f4-b2cb-4f7a-82e6-27603b0cd2f9.pdf,Szymon,other,"Ankieta ocenia satysfakcję z obsługi, a nie stan zdrowia ani postępowanie urzędowe.",1,True,1
+89,3477cfbc-2aa4-4aa9-b4ad-2e5342773ec6.pdf,Szymon,medical_doc,Zaświadczenie zawiera rozpoznanie oraz przebieg leczenia pacjenta.,1,True,1
+98,36cde9e1-d9a2-446f-81b2-9e9608dbb592.pdf,Szymon,official_doc,Wniosek inicjuje postępowanie o wydanie orzeczenia.,1,True,1
+108,3a75671e-3368-4a24-aa3b-83006eed1be1.pdf,Szymon,official_doc,Zeznanie służy rozliczeniu podatku dochodowego.,1,True,1
+137,48af68ca-afe5-4534-a2ea-cf38d1f0bc9c.pdf,Szymon,medical_doc,Zaświadczenie zawiera rozpoznanie oraz przebieg leczenia pacjenta.,1,True,1
+138,49633ccf-1945-4b40-b9a2-79a1280c1657.pdf,Szymon,official_doc,Informacja o miejscach leczenia służy pozyskaniu dokumentacji do orzeczenia ZUS.,1,True,1
+141,4b51fb6c-ca36-42f8-af76-b541fac7d55d.pdf,Szymon,medical_doc,Formularz ocenia samodzielność i funkcjonowanie badanej osoby.,1,True,1
+143,4c0de092-8562-46ad-a813-e85c8c7acd94.pdf,Szymon,medical_doc,Zaświadczenie zawiera rozpoznanie oraz przebieg leczenia pacjenta.,1,True,1
+152,4eff0dab-fa6c-48df-a582-39220a552ebd.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji leczniczej.,1,True,1
+177,5c12c1ef-5dfb-4cfb-94a0-cbeea3b364aa.pdf,Szymon,official_doc,Wniosek służy ustaleniu prawa do świadczenia rodzinnego.,1,True,1
+190,649f1b68-7904-4356-a744-d403178e93c1.pdf,Szymon,official_doc,Wniosek służy ustaleniu prawa do świadczenia rodzinnego.,1,True,1
+198,696f42b1-1ff1-40c5-b81a-dc9df8a2c06d.pdf,Szymon,other,Lista kontroluje warunki i ergonomię stanowiska bez danych o zdrowiu pacjenta.,1,True,1
+201,6a745dad-6818-4d45-9e9c-29ac04e88202.pdf,Szymon,official_doc,Zgłoszenie służy urzędowej ewidencji podatnika.,1,True,1
+215,749d9b85-8ef9-40e2-83d4-05c2ece8fc38.pdf,Szymon,official_doc,Informacja o miejscach leczenia służy pozyskaniu dokumentacji do orzeczenia ZUS.,1,True,1
+223,78a5da06-b4b2-417e-bfcb-cd6144437008.pdf,Szymon,official_doc,Deklaracja służy rozliczeniu podatku od towarów i usług.,1,True,1
+238,81251160-ea77-40d1-9ca2-49d9f84ae8cb.pdf,Szymon,medical_doc,Formularz ocenia samodzielność i funkcjonowanie badanej osoby.,1,True,1
+256,928130ff-dba6-4a33-8d78-bfd0ca962fe2.pdf,Szymon,official_doc,Wniosek służy ustaleniu prawa do świadczenia rodzinnego.,1,True,1
+264,96965c77-1f9c-495f-8dac-aa874074b325.pdf,Szymon,official_doc,Wniosek służy uzyskaniu skierowania w postępowaniu ZUS.,1,True,1
+266,99370a64-93a2-45e1-80ba-c706d9a067be.pdf,Szymon,medical_doc,Karta zawiera ocenę funkcjonowania pacjenta w skali Barthel.,1,True,1
+273,a0060e60-0dae-485f-b281-ab5076b2bfa2.pdf,Szymon,medical_doc,Karta zawiera ocenę funkcjonowania pacjenta w skali Barthel.,1,True,1
+299,add0bea0-507f-4143-ab68-58b141ec01f7.pdf,Szymon,official_doc,Wniosek służy ustaleniu prawa do świadczenia rodzinnego.,1,True,1
+307,b52c64e6-6243-4add-8bcd-c6aa45c38c4b.pdf,Szymon,official_doc,Formularz pracodawcy służy ustaleniu prawa do zasiłku w ZUS.,1,True,1
+309,b6da3dd7-c1fb-4384-b9cc-20f611dd0495.pdf,Szymon,other,Lista kontroluje warunki i ergonomię stanowiska bez danych o zdrowiu pacjenta.,1,True,1
+310,b7f87abb-11f6-4a12-a32d-86b9054171f5.pdf,Szymon,other,Lista kontroluje warunki i ergonomię stanowiska bez danych o zdrowiu pacjenta.,1,True,1
+321,bb9130d5-caf1-4406-a321-a77f30869270.pdf,Szymon,official_doc,Zeznanie służy rozliczeniu podatku dochodowego.,1,True,1
+330,c0f6d262-6dd1-48d1-8f2d-53c14c63b363.pdf,Szymon,official_doc,Sprzeciw uruchamia ponowne rozpatrzenie sprawy przez komisję ZUS.,1,True,1
+347,cacaad40-2e92-4a6e-b72a-339cb16b7119.pdf,Szymon,medical_doc,"Opinia specjalisty opisuje wywiad, badanie i ocenę stanu zdrowia.",1,True,1
+348,cc1818f9-e889-4fbb-908d-377ffc4dc1be.pdf,Szymon,official_doc,Wniosek służy uzyskaniu skierowania w postępowaniu ZUS.,1,True,1
+364,d652709b-9946-4d71-b06a-3e4adbeaaeeb.pdf,Szymon,official_doc,Sprzeciw uruchamia ponowne rozpatrzenie sprawy przez komisję ZUS.,1,True,1
+371,dc10b535-ba60-4ebe-813f-c3dfe1ca90cb.pdf,Szymon,other,Lista kontroluje warunki i ergonomię stanowiska bez danych o zdrowiu pacjenta.,1,True,1
+375,dda0a53c-3d31-488c-994c-57bc1d8fcde2.pdf,Szymon,official_doc,Wniosek inicjuje postępowanie o wydanie orzeczenia.,1,True,1
+383,e21644b3-ba03-4847-8c4f-551d7160ef1f.pdf,Szymon,medical_doc,Zaświadczenie zawiera rozpoznanie oraz przebieg leczenia pacjenta.,1,True,1
+388,e46ec903-13fb-43f8-8e82-6e5055efb5fc.pdf,Szymon,official_doc,Zeznanie służy rozliczeniu podatku dochodowego.,1,True,1
+403,eb2a9a2f-d20c-4169-b657-9988a0d159ac.pdf,Szymon,official_doc,Wniosek służy uzyskaniu skierowania w postępowaniu ZUS.,1,True,1
+414,f09360cb-6d3f-408b-ab21-c07e408c9839.pdf,Szymon,medical_doc,Karta zawiera ocenę funkcjonowania pacjenta w skali Barthel.,1,True,1
+419,f2f8623b-df43-466b-a5ad-48a6540442b1.pdf,Szymon,other,Lista kontroluje warunki i ergonomię stanowiska bez danych o zdrowiu pacjenta.,1,True,1
+424,f65b4158-be91-48e3-b559-6dfdf2d317df.pdf,Szymon,medical_doc,Formularz ocenia samodzielność i funkcjonowanie badanej osoby.,1,True,1
+5,02c7beee-56ce-483a-af01-7ec07ae19b8e.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.,2,True,2
+54,24bca180-7c1f-411a-96eb-54df7182df8b.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.,2,True,2
+66,293d6d21-dfde-4afa-8c23-33cf62d296a4.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.,2,True,2
+95,363eabb5-1527-44c7-82a7-920cb0cc7efb.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.,2,True,2
+97,36c42702-c714-4f18-b6d3-d2a6c7392129.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.,2,True,2
+99,36dbb386-e1ff-4446-9173-bd1b7bee0c32.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.,2,True,2
+115,3f00bcfd-ce7d-4762-81c3-080efd649142.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.,2,True,2
+117,405c9b44-eca2-4867-92a4-da9f0b2ccaac.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.,2,True,2
+118,410db9ce-4639-482f-8ab0-86afd6bb1261.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.,2,True,2
+124,42ac0f1c-a6a8-44b7-b4d3-a53475aef947.pdf,Mikołaj,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.,2,True,2
+139,4ae14849-b3e1-4dd9-ae12-663b89e775a6.pdf,Mikołaj,official_doc,Dokument zapisuje wyniki urzędowej kontroli organizacji świadczeń.,2,True,2
+155,50880d3c-f819-482d-8c24-aa607b4b2a61.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną.",2,True,2
+167,56f94d6f-deb4-4324-a95d-6310e378ea17.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.,2,True,2
+173,598b4d7a-ec0f-46e8-ab80-d8d2c1404965.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.,2,True,2
+196,674cfad2-1192-4e8d-b27b-bbdf4257c6df.pdf,Mikołaj,official_doc,Sprzeciw uruchamia urzędowe rozpatrzenie orzeczenia przez komisję.,2,True,2
+216,75047992-b552-4171-a7a0-a444f9370bb4.pdf,Mikołaj,official_doc,Wniosek dotyczy ustalenia prawa do świadczeń rodzinnych.,2,True,2
+220,757390f5-fd5f-4e5b-9d64-6b3179ac52df.pdf,Mikołaj,official_doc,Zaświadczenie urzędowo potwierdza udzielenie pomocy de minimis.,2,True,2
+228,7c546ee6-974b-4df2-b8bc-12155d91eee5.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.,2,True,2
+244,87efac90-0008-433e-b1fc-149f86be963d.pdf,Mikołaj,medical_doc,Zaświadczenie lekarskie opisuje stan zdrowia pacjenta.,2,True,2
+252,8d91747a-632d-4d04-8073-ba235b4c8d14.pdf,Mikołaj,official_doc,Deklaracja VAT dokumentuje rozliczenie podatkowe.,2,True,2
+257,92ac5042-7cd5-4f2a-bd75-58ff85690705.pdf,Mikołaj,medical_doc,"Opinia specjalisty dokumentuje wywiad, badanie i ocenę kliniczną.",2,True,2
+289,a8078a86-b1d5-48dd-b464-67021de2a999.pdf,Mikołaj,official_doc,Zeznanie podatkowe dokumentuje rozliczenie z urzędem skarbowym.,2,True,2
+300,b0233a81-945a-47f8-93ac-6dabc2b807cd.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.,2,True,2
+329,c0b40399-9fef-4954-9e50-b7fb229959e0.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.,2,True,2
+344,c90f0466-677b-4c4a-b942-b0abf29fe60b.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.,2,True,2
+352,cebd6ac4-017b-43f4-be67-084f85cc1c54.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.,2,True,2
+360,d38bb581-fe10-41ab-abe1-bccfc110595f.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.,2,True,2
+369,dad0e30e-1975-4b6d-a347-68f79bdaf2e0.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.,2,True,2
+384,e28fc1c8-66cc-4cc5-a222-800e403e624e.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.,2,True,2
+389,e4a07165-60d8-4cb4-b2fd-f40642c2f677.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.,2,True,2
+392,e58b7709-4bc5-4308-a77f-9ab932f4f763.pdf,Mikołaj,official_doc,Wniosek pracodawcy inicjuje urzędową kontrolę zwolnienia lekarskiego.,2,True,2
+396,e720bc88-8b62-4f31-9401-7bf637a9adfb.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.,2,True,2
+401,ea1270d8-f28e-4e29-9324-531d98ae32ec.pdf,Mikołaj,medical_doc,Dokument opisuje miejsca i przebieg leczenia pacjenta.,2,True,2
+404,ebdebe9d-94d2-4363-8cd5-8d1d01579ce6.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.,2,True,2
+415,f171b1ac-1b17-4c6e-a212-8ea03fc4af48.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.,2,True,2
+420,f3897ed6-9ed6-4edd-b1c4-2ee5d66b34e9.pdf,Mikołaj,medical_doc,Ankieta opisuje doświadczenie pacjenta związane ze świadczeniami zdrowotnymi.,2,True,2
+427,f8c3fffd-5421-40c9-bea8-4cfd5dae7f4d.pdf,Mikołaj,official_doc,Wywiad zawodowy służy postępowaniu orzeczniczemu ZUS.,2,True,2
+435,fc835d2c-335b-41d2-8b1b-d1666ba2ad31.pdf,Mikołaj,medical_doc,Dokument podsumowuje przebieg i wynik rehabilitacji leczniczej.,2,True,2
+436,fcd1f09c-b6ae-43dd-8731-86c891208c45.pdf,Mikołaj,other,Lista kontrolna dotyczy ergonomii stanowiska pracy i nie opisuje pacjenta.,2,True,2
+439,fe007e89-4cc2-400f-a997-9f1f3405480b.pdf,Mikołaj,official_doc,Wniosek służy uzyskaniu skierowania na rehabilitację w postępowaniu ZUS.,2,True,2
+5,02c7beee-56ce-483a-af01-7ec07ae19b8e.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.,2,True,2
+54,24bca180-7c1f-411a-96eb-54df7182df8b.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.,2,True,2
+66,293d6d21-dfde-4afa-8c23-33cf62d296a4.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.,2,True,2
+95,363eabb5-1527-44c7-82a7-920cb0cc7efb.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.,2,True,2
+97,36c42702-c714-4f18-b6d3-d2a6c7392129.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.,2,True,2
+99,36dbb386-e1ff-4446-9173-bd1b7bee0c32.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.,2,True,2
+115,3f00bcfd-ce7d-4762-81c3-080efd649142.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.,2,True,2
+117,405c9b44-eca2-4867-92a4-da9f0b2ccaac.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.,2,True,2
+118,410db9ce-4639-482f-8ab0-86afd6bb1261.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.,2,True,2
+124,42ac0f1c-a6a8-44b7-b4d3-a53475aef947.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.,2,True,2
+139,4ae14849-b3e1-4dd9-ae12-663b89e775a6.pdf,Szymon,official_doc,Dokument dotyczy urzędowej kontroli organizacji świadczeń.,2,True,2
+155,50880d3c-f819-482d-8c24-aa607b4b2a61.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.,2,True,2
+167,56f94d6f-deb4-4324-a95d-6310e378ea17.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.,2,True,2
+173,598b4d7a-ec0f-46e8-ab80-d8d2c1404965.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.,2,True,2
+196,674cfad2-1192-4e8d-b27b-bbdf4257c6df.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.,2,True,2
+216,75047992-b552-4171-a7a0-a444f9370bb4.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.,2,True,2
+220,757390f5-fd5f-4e5b-9d64-6b3179ac52df.pdf,Szymon,official_doc,Zaświadczenie dokumentuje urzędowe udzielenie pomocy de minimis.,2,True,2
+228,7c546ee6-974b-4df2-b8bc-12155d91eee5.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.,2,True,2
+244,87efac90-0008-433e-b1fc-149f86be963d.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.,2,True,2
+252,8d91747a-632d-4d04-8073-ba235b4c8d14.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.,2,True,2
+257,92ac5042-7cd5-4f2a-bd75-58ff85690705.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.,2,True,2
+289,a8078a86-b1d5-48dd-b464-67021de2a999.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.,2,True,2
+300,b0233a81-945a-47f8-93ac-6dabc2b807cd.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.,2,True,2
+329,c0b40399-9fef-4954-9e50-b7fb229959e0.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.,2,True,2
+344,c90f0466-677b-4c4a-b942-b0abf29fe60b.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.,2,True,2
+352,cebd6ac4-017b-43f4-be67-084f85cc1c54.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.,2,True,2
+360,d38bb581-fe10-41ab-abe1-bccfc110595f.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.,2,True,2
+369,dad0e30e-1975-4b6d-a347-68f79bdaf2e0.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.,2,True,2
+384,e28fc1c8-66cc-4cc5-a222-800e403e624e.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.,2,True,2
+389,e4a07165-60d8-4cb4-b2fd-f40642c2f677.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.,2,True,2
+392,e58b7709-4bc5-4308-a77f-9ab932f4f763.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.,2,True,2
+396,e720bc88-8b62-4f31-9401-7bf637a9adfb.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.,2,True,2
+401,ea1270d8-f28e-4e29-9324-531d98ae32ec.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.,2,True,2
+404,ebdebe9d-94d2-4363-8cd5-8d1d01579ce6.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.,2,True,2
+415,f171b1ac-1b17-4c6e-a212-8ea03fc4af48.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.,2,True,2
+420,f3897ed6-9ed6-4edd-b1c4-2ee5d66b34e9.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.,2,True,2
+427,f8c3fffd-5421-40c9-bea8-4cfd5dae7f4d.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.,2,True,2
+435,fc835d2c-335b-41d2-8b1b-d1666ba2ad31.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.,2,True,2
+436,fcd1f09c-b6ae-43dd-8731-86c891208c45.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.,2,True,2
+439,fe007e89-4cc2-400f-a997-9f1f3405480b.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.,2,True,2

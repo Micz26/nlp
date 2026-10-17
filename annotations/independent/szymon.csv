@@ -1,0 +1,202 @@
+task_id,filename,annotator,label,reason_short
+1,003aa450-a760-47d7-88bb-077054901d50.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+2,005ef9aa-0486-4de8-ad7c-f58d609ed6ef.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+4,026c6d7e-0a9b-4d09-a997-32a6cb00402e.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+5,02c7beee-56ce-483a-af01-7ec07ae19b8e.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+11,05a35a56-6407-4815-bb03-9ff02bdb008e.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+14,082c533f-0323-46fb-872d-512038b15154.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+15,0858d9dc-953e-4af2-8048-9bc2363c3db3.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+16,09a3ed0b-b0c5-462c-a2fb-b66ed939fc40.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+18,0bde9ba1-bf88-4ecf-ad1e-97ca313b44c1.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+22,0c4e6641-f58c-4a47-bd96-6c93adab6143.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+24,0e4441f2-08de-433f-86cc-3a084ce3978a.pdf,Szymon,medical_doc,Skala Barthel ocenia funkcjonowanie pacjenta.
+29,1249270e-b6ee-4300-9b6f-673eebcf91c8.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+30,126c7fce-3be0-4638-a01c-0eed2bfd78f1.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+31,14308e20-4929-45a8-a5cd-c7b7079ddf81.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+38,17bdaf30-7b07-4cf1-8508-802e450f8971.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+40,19d18c8f-c7f6-4d8b-8275-f846bff32bbb.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+41,1a836551-096c-4220-81ad-2483dc5151f7.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+43,1bf25056-79ee-4df9-b144-5e2ecf8bc3ce.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+45,1c3ed96c-753c-43e1-8669-d424d638274f.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+49,20ef4eff-3b3b-4ce3-948a-5e25c5bddf46.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+53,24b07138-55b4-4115-972f-143d49a22491.pdf,Szymon,official_doc,Oświadczenie przedsiębiorcy służy postępowaniu w sprawie pomocy publicznej.
+54,24bca180-7c1f-411a-96eb-54df7182df8b.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+55,250884f4-b2cb-4f7a-82e6-27603b0cd2f9.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+59,26fe8350-7221-4968-b141-243ed8297fbf.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+60,27099c45-7161-47d3-8c51-81a985d4b568.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+64,290b8890-4ecb-49b9-8297-780a0f061bc3.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+66,293d6d21-dfde-4afa-8c23-33cf62d296a4.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+68,2a2a7e79-2217-43d9-ba8a-965c1d48f75f.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+71,2d0c7a9d-be8c-445b-a5d6-37aef69f32ba.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+74,2e82edf7-b968-4475-a7a8-3b1cc3a7dcd8.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+77,317bf16e-fbf7-47f6-b4e2-cde0e83146ad.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+79,322fe656-f41e-4a92-b50a-8b32ca8063fb.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+81,32956408-2ed9-4de3-a66c-73f82605d168.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+89,3477cfbc-2aa4-4aa9-b4ad-2e5342773ec6.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+90,34a38fca-5b89-4940-853a-6c31d34b3a4f.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+91,34f47d3d-44f7-46d3-96c1-e8e530127d24.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+92,350d3869-43d4-4c2c-9b6b-662a70220cd8.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+95,363eabb5-1527-44c7-82a7-920cb0cc7efb.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+96,36b49bf9-6660-43ec-83ef-9f476cbb66e8.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+97,36c42702-c714-4f18-b6d3-d2a6c7392129.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+98,36cde9e1-d9a2-446f-81b2-9e9608dbb592.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+99,36dbb386-e1ff-4446-9173-bd1b7bee0c32.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+101,37f16dcd-1924-452a-9c30-3110c918f9a1.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+104,39409f91-3076-4f47-9271-36bd33f1b7e9.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+108,3a75671e-3368-4a24-aa3b-83006eed1be1.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+109,3a7b1fe7-b45c-4412-bd75-1d0395d1760d.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+112,3c3c4ca4-b763-4ec0-ae5e-86736962f909.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+115,3f00bcfd-ce7d-4762-81c3-080efd649142.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+116,40181dd2-4279-44eb-8cfe-cd1fe0176a53.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+117,405c9b44-eca2-4867-92a4-da9f0b2ccaac.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+118,410db9ce-4639-482f-8ab0-86afd6bb1261.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+121,41a6f795-3bf4-446f-b834-66f1eae914a5.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+124,42ac0f1c-a6a8-44b7-b4d3-a53475aef947.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+125,438ed0ed-df40-497c-9e96-6c1984f57081.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+126,43da9209-a72f-4fdb-8dbc-8a946d0f4699.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+128,44a40c7a-e444-4493-a44b-bc67e48347c7.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+131,452ddea0-1941-4442-a921-76521762d32f.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+133,457f5154-7f7e-4b95-9efc-1fc0e6fedb52.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+134,463b25b1-add8-4123-879b-31af58129a42.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+136,4841c90b-49b0-4942-963c-d0eaeabc2cac.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+137,48af68ca-afe5-4534-a2ea-cf38d1f0bc9c.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+138,49633ccf-1945-4b40-b9a2-79a1280c1657.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+139,4ae14849-b3e1-4dd9-ae12-663b89e775a6.pdf,Szymon,official_doc,Dokument dotyczy urzędowej kontroli organizacji świadczeń.
+140,4af86205-529e-4686-8e1f-285191867b0a.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+141,4b51fb6c-ca36-42f8-af76-b541fac7d55d.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+143,4c0de092-8562-46ad-a813-e85c8c7acd94.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+148,4de63f2a-9535-4d90-919d-f29af902d74a.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+151,4ec10ee6-c23d-4cd8-9df5-134ec1c8ce11.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+152,4eff0dab-fa6c-48df-a582-39220a552ebd.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+155,50880d3c-f819-482d-8c24-aa607b4b2a61.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+157,51d65568-12d5-4ff9-b55d-eef09ec42a15.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+161,54460b62-bc67-41ef-b184-bc13e80ab4e3.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+164,5546a780-5193-43a4-9686-dc35fa4aef9f.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+166,55ccf609-5989-4065-b77f-e6b02870c663.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+167,56f94d6f-deb4-4324-a95d-6310e378ea17.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+170,5880b622-7376-4d47-9392-05f247c8dfd6.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+172,59470245-4c28-4136-97f7-41581c3a55f9.pdf,Szymon,medical_doc,Skala Barthel ocenia funkcjonowanie pacjenta.
+173,598b4d7a-ec0f-46e8-ab80-d8d2c1404965.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+177,5c12c1ef-5dfb-4cfb-94a0-cbeea3b364aa.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+181,5d70aa31-9414-4550-8259-19321e2ab069.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+183,5efeb435-b77f-4a84-a6d3-7afff0984303.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+185,6105832a-3ecd-4ace-9f01-2db7137eaed2.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+190,649f1b68-7904-4356-a744-d403178e93c1.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+192,6506ee88-57bf-4ef3-9724-44aba07e20d5.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+193,65601645-5805-439e-8dda-dd83380abbe5.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+195,66d3b27b-038f-49aa-885c-b6958d00e45d.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+196,674cfad2-1192-4e8d-b27b-bbdf4257c6df.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+197,686316bf-af59-4968-8bfc-acc55e286f9a.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+198,696f42b1-1ff1-40c5-b81a-dc9df8a2c06d.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+199,696ffaab-1a3c-4e90-9a97-a4d1574eed53.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+200,6a2378ba-d579-498a-96c5-a16570c5bf3b.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+201,6a745dad-6818-4d45-9e9c-29ac04e88202.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+210,71ff3fff-5a12-4993-83f4-65fd93ebb7b4.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+212,7260af10-55cc-4dc5-81b1-3f3765ee5876.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+215,749d9b85-8ef9-40e2-83d4-05c2ece8fc38.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+216,75047992-b552-4171-a7a0-a444f9370bb4.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+217,7540761b-bca5-4347-9de1-d949911d83dd.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+218,7555bfca-f45a-438f-9864-ed2c41a18eaf.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+219,7568be10-f318-499f-8bf8-49e55b11a4ff.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+220,757390f5-fd5f-4e5b-9d64-6b3179ac52df.pdf,Szymon,official_doc,Zaświadczenie dokumentuje urzędowe udzielenie pomocy de minimis.
+223,78a5da06-b4b2-417e-bfcb-cd6144437008.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+227,7c038911-177f-4d0b-8783-ed99525cb01e.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+228,7c546ee6-974b-4df2-b8bc-12155d91eee5.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+230,7cfb72fe-3389-4760-ae99-95fc3342e1ef.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+232,7e1e2fe2-12b4-4e44-899a-3bfbe9c9c09f.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+233,7e82f2c8-0522-44b8-a725-6184790df1af.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+234,7f3d43a0-eb6a-4f94-bbe8-cd14262e786b.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+238,81251160-ea77-40d1-9ca2-49d9f84ae8cb.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+244,87efac90-0008-433e-b1fc-149f86be963d.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+249,8b155aa2-d678-4b94-b8b0-ddf7e845f56c.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+250,8c839431-2555-4c23-8a64-3eae5a063e0c.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+252,8d91747a-632d-4d04-8073-ba235b4c8d14.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+256,928130ff-dba6-4a33-8d78-bfd0ca962fe2.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+257,92ac5042-7cd5-4f2a-bd75-58ff85690705.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+258,92cf2bcc-95eb-42b0-b10b-05a903de924e.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+261,93ed737b-146d-4b50-9c7c-2dedf6ab38f4.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+263,959fe8a6-5350-4678-ba95-b9aa8748a461.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+264,96965c77-1f9c-495f-8dac-aa874074b325.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+265,9750c99e-21db-4a86-8456-e8f44ddc344c.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+266,99370a64-93a2-45e1-80ba-c706d9a067be.pdf,Szymon,medical_doc,Skala Barthel ocenia funkcjonowanie pacjenta.
+268,9b501e9e-aa2b-47ba-8888-d05eb0d496e2.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+273,a0060e60-0dae-485f-b281-ab5076b2bfa2.pdf,Szymon,medical_doc,Skala Barthel ocenia funkcjonowanie pacjenta.
+278,a1d31578-c110-4675-9be1-0b129755bea8.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+281,a32522fd-3f02-4a01-8686-4d49a7eca86e.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+284,a40d1a45-aae6-48ce-ab83-e10c60277c0b.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+289,a8078a86-b1d5-48dd-b464-67021de2a999.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+291,a915a3b9-e257-4ff4-8d0d-30c3d37c47e3.pdf,Szymon,medical_doc,Skala Barthel ocenia funkcjonowanie pacjenta.
+292,a9ebb804-2bc4-4ece-ad3e-98e513c117e5.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+295,abdd916f-52ff-4fba-9cf8-00066a683340.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+296,ac0697b3-8cfc-4db6-b6d6-9ab8e5c5c761.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+298,ad43424d-b037-4ccb-9c86-e56961dbeca3.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+299,add0bea0-507f-4143-ab68-58b141ec01f7.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+300,b0233a81-945a-47f8-93ac-6dabc2b807cd.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+301,b09f4588-2dfc-465f-8377-48d7444048b9.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+305,b442bb0a-74c8-4b29-852b-95ea1b6b0085.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+307,b52c64e6-6243-4add-8bcd-c6aa45c38c4b.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+308,b60b7906-1484-47d5-991e-92cedc90e310.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+309,b6da3dd7-c1fb-4384-b9cc-20f611dd0495.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+310,b7f87abb-11f6-4a12-a32d-86b9054171f5.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+312,b86ea86f-96dd-411e-9834-1696e472400c.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+313,b88e39ae-9c24-4889-af69-41fb951550a9.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+320,ba22e687-e088-431e-b8d4-e0f9d58597dc.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+321,bb9130d5-caf1-4406-a321-a77f30869270.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+322,bd0e05e2-b66a-4e91-bc67-2303dd301456.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+329,c0b40399-9fef-4954-9e50-b7fb229959e0.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+330,c0f6d262-6dd1-48d1-8f2d-53c14c63b363.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+336,c51772cf-b1a6-4e3d-85db-6b29d20c8080.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+337,c56487a7-c3d1-43e3-a5b4-0d8faace1a8d.pdf,Szymon,official_doc,Deklaracja VAT dokumentuje postępowanie podatkowe.
+339,c5fd86fa-e880-412e-9db9-3a09c4c9dcbc.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+344,c90f0466-677b-4c4a-b942-b0abf29fe60b.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+345,c971f325-b8e6-4208-ba7b-dd605b0409e8.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+346,c99ae13b-426d-422d-b07f-e964d03832ad.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+347,cacaad40-2e92-4a6e-b72a-339cb16b7119.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+348,cc1818f9-e889-4fbb-908d-377ffc4dc1be.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+349,ccd801bd-3da7-470a-945e-734ea5877f2d.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+352,cebd6ac4-017b-43f4-be67-084f85cc1c54.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+353,cf013a33-794f-4623-874b-b5786743e849.pdf,Szymon,official_doc,Zgłoszenie identyfikacyjne służy ewidencji podatkowej.
+358,d2dad0e7-5db5-4dc6-ad82-33567f830bd7.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+359,d36293dd-e8d4-46e5-98ad-891ab0fd69bf.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+360,d38bb581-fe10-41ab-abe1-bccfc110595f.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+361,d5322bb6-626f-42ad-a2d7-6543007dfa27.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+364,d652709b-9946-4d71-b06a-3e4adbeaaeeb.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+368,d9d98659-2ac5-4116-8630-b8e0db594fe9.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+369,dad0e30e-1975-4b6d-a347-68f79bdaf2e0.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+371,dc10b535-ba60-4ebe-813f-c3dfe1ca90cb.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+375,dda0a53c-3d31-488c-994c-57bc1d8fcde2.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+377,de087cc6-68ac-4e83-90a1-26dfd72fd911.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+383,e21644b3-ba03-4847-8c4f-551d7160ef1f.pdf,Szymon,medical_doc,Zaświadczenie opisuje stan zdrowia i leczenie pacjenta.
+384,e28fc1c8-66cc-4cc5-a222-800e403e624e.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+385,e30d89f7-dac8-4911-876f-535a12af3e7a.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+388,e46ec903-13fb-43f8-8e82-6e5055efb5fc.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+389,e4a07165-60d8-4cb4-b2fd-f40642c2f677.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+392,e58b7709-4bc5-4308-a77f-9ab932f4f763.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+395,e6e36d3e-000f-4829-a270-16127612af78.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+396,e720bc88-8b62-4f31-9401-7bf637a9adfb.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+401,ea1270d8-f28e-4e29-9324-531d98ae32ec.pdf,Szymon,medical_doc,Historia miejsc i przebiegu leczenia pacjenta.
+403,eb2a9a2f-d20c-4169-b657-9988a0d159ac.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+404,ebdebe9d-94d2-4363-8cd5-8d1d01579ce6.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+405,ec01bfad-b244-4b9a-b174-c46e3343c77b.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+408,ed744c86-a8fe-4af6-9f3f-dbf19751d42b.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+409,ed8de94c-f08e-4894-bd26-d67eb3493b6d.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+410,eecb6740-5443-44ad-ad7c-e7caf6ea0e98.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+411,eefe29b5-2650-46ab-b890-b30f6819bcff.pdf,Szymon,official_doc,Zeznanie podatkowe służy postępowaniu podatkowemu.
+414,f09360cb-6d3f-408b-ab21-c07e408c9839.pdf,Szymon,medical_doc,Skala Barthel ocenia funkcjonowanie pacjenta.
+415,f171b1ac-1b17-4c6e-a212-8ea03fc4af48.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+416,f1c5a752-5754-43da-a02b-528c6c4131bd.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+418,f2e61099-9cf0-44c3-a624-b7a8095d1e45.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+419,f2f8623b-df43-466b-a5ad-48a6540442b1.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+420,f3897ed6-9ed6-4edd-b1c4-2ee5d66b34e9.pdf,Szymon,medical_doc,Ankieta opisuje doświadczenie pacjenta ze świadczeniami zdrowotnymi.
+423,f64446c5-c372-4bc1-9c20-332bb1b5303e.pdf,Szymon,official_doc,Formularz Z-3 służy obsłudze świadczenia ubezpieczeniowego.
+424,f65b4158-be91-48e3-b559-6dfdf2d317df.pdf,Szymon,medical_doc,Formularz zawiera kliniczną ocenę funkcjonowania pacjenta.
+427,f8c3fffd-5421-40c9-bea8-4cfd5dae7f4d.pdf,Szymon,official_doc,Wywiad zawodowy OL-10 służy postępowaniu ubezpieczeniowemu.
+428,f8f706aa-4d30-46e8-8eaf-668c1158c3a4.pdf,Szymon,official_doc,Wniosek OL-13 inicjuje postępowanie o wydanie orzeczenia.
+429,f95b58fa-39a2-4874-8f79-730459603928.pdf,Szymon,official_doc,Formularz inicjuje lub dokumentuje postępowanie orzecznicze ZUS.
+435,fc835d2c-335b-41d2-8b1b-d1666ba2ad31.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.
+436,fcd1f09c-b6ae-43dd-8731-86c891208c45.pdf,Szymon,other,Lista kontrolna ergonomii stanowiska nie jest dokumentacją pacjenta ani postępowaniem urzędowym.
+437,fd9d7915-8775-4dda-adae-343e67d08b81.pdf,Szymon,medical_doc,Opinia lekarza dokumentuje ocenę kliniczną pacjenta.
+439,fe007e89-4cc2-400f-a997-9f1f3405480b.pdf,Szymon,official_doc,Wniosek PR-4 służy postępowaniu o rehabilitację w ZUS.
+440,fe66b1b2-0d91-4178-94c8-f822314c5bea.pdf,Szymon,official_doc,Dokument dotyczy urzędowej kontroli organizacji świadczeń.
+441,fe97e9ee-70cb-485a-832a-7af22053f7b2.pdf,Szymon,official_doc,Wniosek dotyczy urzędowego ustalenia prawa do świadczenia rodzinnego.
+442,fed0cd8a-8738-4f99-b1b3-361f07fc7ef5.pdf,Szymon,medical_doc,Dokument opisuje rozpoznanie i przebieg rehabilitacji pacjenta.

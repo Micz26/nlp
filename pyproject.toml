@@ -5,16 +5,33 @@ description = "Reproducible text annotation workflow for NLP assignment 1"
 readme = "README.md"
 requires-python = ">=3.11,<3.14"
 dependencies = [
+    "gensim>=4.4.0",
+    "huggingface-hub>=2.2.0",
+    "ipykernel>=7.4.0",
     "label-studio>=1.22,<2",
+    "matplotlib>=3.11.2",
+    "nbconvert>=7.17.2",
+    "nbformat>=5.11.1",
     "pandas>=2.2,<4",
+    "pl-core-news-lg",
+    "plotly>=7.1.0",
     "pyarrow>=18,<24",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.7.0",
+    "spacy>=3.8.16",
+    "umap-learn>=0.5.12",
 ]
 
 [dependency-groups]
 dev = [
+    "jupytext>=1.19.6",
     "pytest>=8,<10",
 ]
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
 testpaths = ["tests"]
+
+[tool.uv.sources]
+pl-core-news-lg = { url = "https://github.com/explosion/spacy-models/releases/download/pl_core_news_lg-3.8.0/pl_core_news_lg-3.8.0-py3-none-any.whl" }

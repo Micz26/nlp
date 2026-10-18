@@ -78,3 +78,28 @@ Do repozytorium można bezpiecznie dodać raport, metryki, wytyczne, indeks CSV 
 Pełny zaanotowany Parquet oraz eksporty Label Studio znajdują się pod `data/` i są ignorowane przez Git.
 
 Skrypt kompilujący odtwarza je lokalnie po pobraniu danych wejściowych.
+
+## Część II: osadzenia i klasyfikacja
+
+Część II jest w notebooku `notebooks/part2_embeddings_classification.ipynb`.
+Jego źródło w formacie jupytext to `notebooks/part2_embeddings_classification.py`, a moduły pomocnicze leżą w `src/part2/`.
+Zadania dotyczące dokumentów pisanych odręcznie zostały pominięte.
+
+| Moduł | Zawartość |
+|---|---|
+| `src/part2/data.py` | łączenie stron, czyszczenie szumu OCR, grupowanie dokumentów w szablony formularzy |
+| `src/part2/lemmatize.py` | lematyzacja spaCy `pl_core_news_lg` |
+| `src/part2/embeddings.py` | Word2Vec i fastText KGR10 (średnia, SIF) oraz enkodery `sdadas/mmlw-roberta-base` i `BAAI/bge-m3` (strategie head / chunks / long) |
+| `src/part2/analysis.py` | UMAP i t-SNE (plotly), miary separacji, sąsiedzi, HDBSCAN |
+| `src/part2/classify.py` | regresja logistyczna, powtarzana stratyfikowana CV, leave-template-out, reguły z wytycznych |
+
+```bash
+uv sync
+uv run python src/compile_independent_annotations.py
+uv run python data/scripts/build_annotated_dataset.py
+cd notebooks && uv run jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=7200 part2_embeddings_classification.ipynb
+```
+
+Pierwsze uruchomienie pobiera z Hugging Face około 10 GB modeli i trwa około 20 minut na Apple M2 Pro.
+Wyniki pośrednie są cache'owane w `data/part2/`, a interaktywne wykresy HTML i macierze pomyłek trafiają do `reports/figures/`.
+Pliki HTML w `reports/figures/` zawierają fragmenty tekstów dokumentów, dlatego są ignorowane przez Git i powstają lokalnie po uruchomieniu notebooka.
